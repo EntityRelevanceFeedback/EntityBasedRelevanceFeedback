@@ -1,0 +1,5897 @@
+{
+  "338": {
+    "docId": "338",
+    "entityMap": {
+      "1525": [
+        {
+          "originalText": "Aspirin",
+          "start": 8,
+          "end": 15,
+          "confidence": 0.58292156457901,
+          "topicId": 1525,
+          "sentenceId": 0
+        }
+      ],
+      "24462958": [
+        {
+          "originalText": "Risk",
+          "start": 0,
+          "end": 4,
+          "confidence": 0.17806708812713623,
+          "topicId": 24462958,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "339": {
+    "docId": "339",
+    "entityMap": {
+      "33632441": [
+        {
+          "originalText": "Drug",
+          "start": 12,
+          "end": 16,
+          "confidence": 0.3623025715351105,
+          "topicId": 33632441,
+          "sentenceId": 0
+        }
+      ],
+      "18914017": [
+        {
+          "originalText": "Alzheimer",
+          "start": 0,
+          "end": 9,
+          "confidence": 0.4894019365310669,
+          "topicId": 18914017,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "332": {
+    "docId": "332",
+    "entityMap": {
+      "2256795": [
+        {
+          "originalText": "Tax Evasion",
+          "start": 7,
+          "end": 18,
+          "confidence": 0.7052794694900513,
+          "topicId": 2256795,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "333": {
+    "docId": "333",
+    "entityMap": {
+      "9028799": [
+        {
+          "originalText": "Bacteria",
+          "start": 12,
+          "end": 20,
+          "confidence": 0.5495975017547607,
+          "topicId": 9028799,
+          "sentenceId": 0
+        }
+      ],
+      "1805": [
+        {
+          "originalText": "Antibiotics",
+          "start": 0,
+          "end": 11,
+          "confidence": 0.47220444679260254,
+          "topicId": 1805,
+          "sentenceId": 0
+        }
+      ],
+      "37220": [
+        {
+          "originalText": "Disease",
+          "start": 21,
+          "end": 28,
+          "confidence": 0.36936840415000916,
+          "topicId": 37220,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "330": {
+    "docId": "330",
+    "entityMap": {
+      "38777061": [
+        {
+          "originalText": "Cooperation",
+          "start": 9,
+          "end": 20,
+          "confidence": 0.1862247735261917,
+          "topicId": 38777061,
+          "sentenceId": 0
+        }
+      ],
+      "14889": [
+        {
+          "originalText": "Iran-Iraq",
+          "start": 0,
+          "end": 8,
+          "confidence": 0.18429012596607208,
+          "topicId": 14889,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "331": {
+    "docId": "331",
+    "entityMap": {
+      "33309": [
+        {
+          "originalText": "World Bank",
+          "start": 0,
+          "end": 10,
+          "confidence": 0.6553434729576111,
+          "topicId": 33309,
+          "sentenceId": 0
+        }
+      ],
+      "23273": [
+        {
+          "originalText": "Criticism",
+          "start": 11,
+          "end": 20,
+          "confidence": 0.22641153633594513,
+          "topicId": 23273,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "336": {
+    "docId": "336",
+    "entityMap": {
+      "51054": [
+        {
+          "originalText": "Black Bear",
+          "start": 0,
+          "end": 10,
+          "confidence": 0.5052499771118164,
+          "topicId": 51054,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "337": {
+    "docId": "337",
+    "entityMap": {
+      "607070": [
+        {
+          "originalText": "Viral Hepatitis",
+          "start": 0,
+          "end": 15,
+          "confidence": 0.2806451618671417,
+          "topicId": 607070,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "334": {
+    "docId": "334",
+    "entityMap": {
+      "18842281": [
+        {
+          "originalText": "Controls",
+          "start": 7,
+          "end": 15,
+          "confidence": 0.09578944742679596,
+          "topicId": 18842281,
+          "sentenceId": 0
+        }
+      ],
+      "18934432": [
+        {
+          "originalText": "Cryptography",
+          "start": 16,
+          "end": 28,
+          "confidence": 0.4283122420310974,
+          "topicId": 18934432,
+          "sentenceId": 0
+        }
+      ],
+      "307592": [
+        {
+          "originalText": "Export",
+          "start": 0,
+          "end": 6,
+          "confidence": 0.057002779096364975,
+          "topicId": 307592,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "335": {
+    "docId": "335",
+    "entityMap": {
+      "83441": [
+        {
+          "originalText": "Parents",
+          "start": 20,
+          "end": 27,
+          "confidence": 0.2668217420578003,
+          "topicId": 83441,
+          "sentenceId": 0
+        }
+      ],
+      "9127632": [
+        {
+          "originalText": "Biological",
+          "start": 9,
+          "end": 19,
+          "confidence": 0.1504228562116623,
+          "topicId": 9127632,
+          "sentenceId": 0
+        }
+      ],
+      "38534": [
+        {
+          "originalText": "Adoptive",
+          "start": 0,
+          "end": 8,
+          "confidence": 0.2445524036884308,
+          "topicId": 38534,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "601": {
+    "docId": "601",
+    "entityMap": {
+      "198725": [
+        {
+          "originalText": "water",
+          "start": 12,
+          "end": 17,
+          "confidence": 0.07314904034137726,
+          "topicId": 198725,
+          "sentenceId": 0
+        }
+      ],
+      "11125639": [
+        {
+          "originalText": "Turkey",
+          "start": 0,
+          "end": 6,
+          "confidence": 0.49559614062309265,
+          "topicId": 11125639,
+          "sentenceId": 0
+        }
+      ],
+      "7515928": [
+        {
+          "originalText": "Iraq",
+          "start": 7,
+          "end": 11,
+          "confidence": 0.48981109261512756,
+          "topicId": 7515928,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "609": {
+    "docId": "609",
+    "entityMap": {
+      "357788": [
+        {
+          "originalText": "per capita",
+          "start": 0,
+          "end": 10,
+          "confidence": 0.19961628317832947,
+          "topicId": 357788,
+          "sentenceId": 0
+        }
+      ],
+      "18948043": [
+        {
+          "originalText": "alcohol",
+          "start": 11,
+          "end": 18,
+          "confidence": 0.42832040786743164,
+          "topicId": 18948043,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "608": {
+    "docId": "608",
+    "entityMap": {
+      "48728": [
+        {
+          "originalText": "social security",
+          "start": 7,
+          "end": 22,
+          "confidence": 0.13491153717041016,
+          "topicId": 48728,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "607": {
+    "docId": "607",
+    "entityMap": {
+      "12385": [
+        {
+          "originalText": "genetic code",
+          "start": 6,
+          "end": 18,
+          "confidence": 0.5253696441650391,
+          "topicId": 12385,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "606": {
+    "docId": "606",
+    "entityMap": {
+      "13291113": [
+        {
+          "originalText": "ban",
+          "start": 10,
+          "end": 13,
+          "confidence": 0.014257119037210941,
+          "topicId": 13291113,
+          "sentenceId": 0
+        }
+      ],
+      "4901720": [
+        {
+          "originalText": "leg",
+          "start": 0,
+          "end": 3,
+          "confidence": 0.12516576051712036,
+          "topicId": 4901720,
+          "sentenceId": 0
+        }
+      ],
+      "1487479": [
+        {
+          "originalText": "traps",
+          "start": 4,
+          "end": 9,
+          "confidence": 0.1303701102733612,
+          "topicId": 1487479,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "605": {
+    "docId": "605",
+    "entityMap": {
+      "27553159": [
+        {
+          "originalText": "health care",
+          "start": 14,
+          "end": 25,
+          "confidence": 0.10026371479034424,
+          "topicId": 27553159,
+          "sentenceId": 0
+        }
+      ],
+      "31717": [
+        {
+          "originalText": "Great Britain",
+          "start": 0,
+          "end": 13,
+          "confidence": 0.2340412735939026,
+          "topicId": 31717,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "604": {
+    "docId": "604",
+    "entityMap": {
+      "1776": [
+        {
+          "originalText": "arthritis",
+          "start": 13,
+          "end": 22,
+          "confidence": 0.4701128602027893,
+          "topicId": 1776,
+          "sentenceId": 0
+        }
+      ],
+      "244113": [
+        {
+          "originalText": "Lyme disease",
+          "start": 0,
+          "end": 12,
+          "confidence": 0.8019499778747559,
+          "topicId": 244113,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "603": {
+    "docId": "603",
+    "entityMap": {
+      "113258": [
+        {
+          "originalText": "lawsuit",
+          "start": 18,
+          "end": 25,
+          "confidence": 0.19108372926712036,
+          "topicId": 113258,
+          "sentenceId": 0
+        }
+      ],
+      "30942": [
+        {
+          "originalText": "Tobacco",
+          "start": 0,
+          "end": 7,
+          "confidence": 0.4097841680049896,
+          "topicId": 30942,
+          "sentenceId": 0
+        }
+      ],
+      "38327": [
+        {
+          "originalText": "cigarette",
+          "start": 8,
+          "end": 17,
+          "confidence": 0.42115557193756104,
+          "topicId": 38327,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "602": {
+    "docId": "602",
+    "entityMap": {
+      "26830": [
+        {
+          "originalText": "Slovak",
+          "start": 6,
+          "end": 12,
+          "confidence": 0.5129299163818359,
+          "topicId": 26830,
+          "sentenceId": 0
+        }
+      ],
+      "28791": [
+        {
+          "originalText": "sovereignty",
+          "start": 13,
+          "end": 24,
+          "confidence": 0.16041013598442078,
+          "topicId": 28791,
+          "sentenceId": 0
+        }
+      ],
+      "5321": [
+        {
+          "originalText": "Czech",
+          "start": 0,
+          "end": 5,
+          "confidence": 0.35379868745803833,
+          "topicId": 5321,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "349": {
+    "docId": "349",
+    "entityMap": {
+      "20374": [
+        {
+          "originalText": "Metabolism",
+          "start": 0,
+          "end": 10,
+          "confidence": 0.10224887728691101,
+          "topicId": 20374,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "341": {
+    "docId": "341",
+    "entityMap": {
+      "284770": [
+        {
+          "originalText": "Airport Security",
+          "start": 0,
+          "end": 16,
+          "confidence": 0.12743189930915833,
+          "topicId": 284770,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "342": {
+    "docId": "342",
+    "entityMap": {
+      "1464947": [
+        {
+          "originalText": "Expulsion",
+          "start": 11,
+          "end": 20,
+          "confidence": 0.17670252919197083,
+          "topicId": 1464947,
+          "sentenceId": 0
+        }
+      ],
+      "28165911": [
+        {
+          "originalText": "Diplomatic",
+          "start": 0,
+          "end": 10,
+          "confidence": 0.17109566926956177,
+          "topicId": 28165911,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "343": {
+    "docId": "343",
+    "entityMap": {
+      "23627": [
+        {
+          "originalText": "Police",
+          "start": 0,
+          "end": 6,
+          "confidence": 0.22167403995990753,
+          "topicId": 23627,
+          "sentenceId": 0
+        }
+      ],
+      "8221": [
+        {
+          "originalText": "Deaths",
+          "start": 7,
+          "end": 13,
+          "confidence": 0.20095732808113098,
+          "topicId": 8221,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "344": {
+    "docId": "344",
+    "entityMap": {
+      "9738": [
+        {
+          "originalText": "E-Mail",
+          "start": 10,
+          "end": 15,
+          "confidence": 0.2642189860343933,
+          "topicId": 9738,
+          "sentenceId": 0
+        }
+      ],
+      "424739": [
+        {
+          "originalText": "Abuses",
+          "start": 0,
+          "end": 6,
+          "confidence": 0.18475383520126343,
+          "topicId": 424739,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "345": {
+    "docId": "345",
+    "entityMap": {
+      "30942": [
+        {
+          "originalText": "Tobacco",
+          "start": 9,
+          "end": 16,
+          "confidence": 0.28395918011665344,
+          "topicId": 30942,
+          "sentenceId": 0
+        }
+      ],
+      "296328": [
+        {
+          "originalText": "Sales",
+          "start": 17,
+          "end": 22,
+          "confidence": 0.18473370373249054,
+          "topicId": 296328,
+          "sentenceId": 0
+        }
+      ],
+      "235890": [
+        {
+          "originalText": "Overseas",
+          "start": 0,
+          "end": 8,
+          "confidence": 0.12573793530464172,
+          "topicId": 235890,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "346": {
+    "docId": "346",
+    "entityMap": {
+      "6887745": [
+        {
+          "originalText": "Educational Standards",
+          "start": 0,
+          "end": 21,
+          "confidence": 0.007042253389954567,
+          "topicId": 6887745,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "347": {
+    "docId": "347",
+    "entityMap": {
+      "144219": [
+        {
+          "originalText": "Wildlife",
+          "start": 0,
+          "end": 8,
+          "confidence": 0.23978084325790405,
+          "topicId": 144219,
+          "sentenceId": 0
+        }
+      ],
+      "18783051": [
+        {
+          "originalText": "Extinction",
+          "start": 9,
+          "end": 19,
+          "confidence": 0.28242021799087524,
+          "topicId": 18783051,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "348": {
+    "docId": "348",
+    "entityMap": {
+      "57723": [
+        {
+          "originalText": "Agoraphobia",
+          "start": 0,
+          "end": 11,
+          "confidence": 0.4821428656578064,
+          "topicId": 57723,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "409": {
+    "docId": "409",
+    "entityMap": {
+      "81024": [
+        {
+          "originalText": "Pan Am",
+          "start": 6,
+          "end": 12,
+          "confidence": 0.3350658714771271,
+          "topicId": 81024,
+          "sentenceId": 0
+        }
+      ],
+      "18949668": [
+        {
+          "originalText": "legal",
+          "start": 0,
+          "end": 5,
+          "confidence": 0.06917964667081833,
+          "topicId": 18949668,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "408": {
+    "docId": "408",
+    "entityMap": {
+      "8282374": [
+        {
+          "originalText": "tropical storms",
+          "start": 0,
+          "end": 15,
+          "confidence": 0.04833333194255829,
+          "topicId": 8282374,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "405": {
+    "docId": "405",
+    "entityMap": {
+      "2770842": [
+        {
+          "originalText": "events",
+          "start": 7,
+          "end": 13,
+          "confidence": 0.3105081021785736,
+          "topicId": 2770842,
+          "sentenceId": 0
+        }
+      ],
+      "31880": [
+        {
+          "originalText": "cosmic",
+          "start": 0,
+          "end": 6,
+          "confidence": 0.3142631947994232,
+          "topicId": 31880,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "404": {
+    "docId": "404",
+    "entityMap": {
+      "147575": [
+        {
+          "originalText": "Ireland",
+          "start": 0,
+          "end": 7,
+          "confidence": 0.21930710971355438,
+          "topicId": 147575,
+          "sentenceId": 0
+        }
+      ],
+      "26230922": [
+        {
+          "originalText": "peace",
+          "start": 8,
+          "end": 13,
+          "confidence": 0.04673080891370773,
+          "topicId": 26230922,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "340": {
+    "docId": "340",
+    "entityMap": {
+      "843461": [
+        {
+          "originalText": "Ban",
+          "start": 10,
+          "end": 13,
+          "confidence": 0.014257119037210941,
+          "topicId": 843461,
+          "sentenceId": 0
+        }
+      ],
+      "18172": [
+        {
+          "originalText": "Land Mine",
+          "start": 0,
+          "end": 9,
+          "confidence": 0.5,
+          "topicId": 18172,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "407": {
+    "docId": "407",
+    "entityMap": {
+      "10834": [
+        {
+          "originalText": "preserves",
+          "start": 18,
+          "end": 27,
+          "confidence": 0.3066098690032959,
+          "topicId": 10834,
+          "sentenceId": 0
+        }
+      ],
+      "52988": [
+        {
+          "originalText": "poaching",
+          "start": 0,
+          "end": 8,
+          "confidence": 0.4582182765007019,
+          "topicId": 52988,
+          "sentenceId": 0
+        }
+      ],
+      "144219": [
+        {
+          "originalText": "wildlife",
+          "start": 9,
+          "end": 17,
+          "confidence": 0.1927308291196823,
+          "topicId": 144219,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "406": {
+    "docId": "406",
+    "entityMap": {
+      "22228064": [
+        {
+          "originalText": "Parkinson\u0027s disease",
+          "start": 0,
+          "end": 19,
+          "confidence": 0.46250516176223755,
+          "topicId": 22228064,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "401": {
+    "docId": "401",
+    "entityMap": {
+      "21212": [
+        {
+          "originalText": "Germany",
+          "start": 19,
+          "end": 26,
+          "confidence": 0.36678576469421387,
+          "topicId": 21212,
+          "sentenceId": 0
+        }
+      ],
+      "437868": [
+        {
+          "originalText": "minorities",
+          "start": 8,
+          "end": 18,
+          "confidence": 0.15283772349357605,
+          "topicId": 437868,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "400": {
+    "docId": "400",
+    "entityMap": {
+      "48139": [
+        {
+          "originalText": "Amazon rain forest",
+          "start": 0,
+          "end": 18,
+          "confidence": 0.24561403691768646,
+          "topicId": 48139,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "403": {
+    "docId": "403",
+    "entityMap": {
+      "22461": [
+        {
+          "originalText": "osteoporosis",
+          "start": 0,
+          "end": 12,
+          "confidence": 0.43368545174598694,
+          "topicId": 22461,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "402": {
+    "docId": "402",
+    "entityMap": {
+      "24235330": [
+        {
+          "originalText": "behavioral genetics",
+          "start": 0,
+          "end": 19,
+          "confidence": 0.34328359365463257,
+          "topicId": 24235330,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "318": {
+    "docId": "318",
+    "entityMap": {
+      "26495": [
+        {
+          "originalText": "Retirement",
+          "start": 5,
+          "end": 15,
+          "confidence": 0.05601225048303604,
+          "topicId": 26495,
+          "sentenceId": 0
+        }
+      ],
+      "21627": [
+        {
+          "originalText": "Country",
+          "start": 16,
+          "end": 23,
+          "confidence": 0.06141729652881622,
+          "topicId": 21627,
+          "sentenceId": 0
+        }
+      ],
+      "20888423": [
+        {
+          "originalText": "Best",
+          "start": 0,
+          "end": 4,
+          "confidence": 6.966962828300893E-4,
+          "topicId": 20888423,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "319": {
+    "docId": "319",
+    "entityMap": {
+      "21188370": [
+        {
+          "originalText": "Fuel",
+          "start": 4,
+          "end": 8,
+          "confidence": 0.016334792599081993,
+          "topicId": 21188370,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "316": {
+    "docId": "316",
+    "entityMap": {
+      "24475": [
+        {
+          "originalText": "Polygamy",
+          "start": 0,
+          "end": 8,
+          "confidence": 0.7027536630630493,
+          "topicId": 24475,
+          "sentenceId": 0
+        }
+      ],
+      "24474": [
+        {
+          "originalText": "Polyandry",
+          "start": 9,
+          "end": 18,
+          "confidence": 0.8688986897468567,
+          "topicId": 24474,
+          "sentenceId": 0
+        }
+      ],
+      "24025": [
+        {
+          "originalText": "Polygyny",
+          "start": 19,
+          "end": 27,
+          "confidence": 0.8718041777610779,
+          "topicId": 24025,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "317": {
+    "docId": "317",
+    "entityMap": {
+      "10826": [
+        {
+          "originalText": "Faxes",
+          "start": 12,
+          "end": 17,
+          "confidence": 0.010835913009941578,
+          "topicId": 10826,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "314": {
+    "docId": "314",
+    "entityMap": {
+      "216226": [
+        {
+          "originalText": "Vegetation",
+          "start": 7,
+          "end": 17,
+          "confidence": 0.2665430009365082,
+          "topicId": 216226,
+          "sentenceId": 0
+        }
+      ],
+      "18842359": [
+        {
+          "originalText": "Marine",
+          "start": 0,
+          "end": 6,
+          "confidence": 0.3309953212738037,
+          "topicId": 18842359,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "315": {
+    "docId": "315",
+    "entityMap": {
+      "156861": [
+        {
+          "originalText": "Unexplained",
+          "start": 0,
+          "end": 11,
+          "confidence": 0.052853308618068695,
+          "topicId": 156861,
+          "sentenceId": 0
+        }
+      ],
+      "19740545": [
+        {
+          "originalText": "Accidents",
+          "start": 20,
+          "end": 29,
+          "confidence": 0.16254818439483643,
+          "topicId": 19740545,
+          "sentenceId": 0
+        }
+      ],
+      "48519": [
+        {
+          "originalText": "Highway",
+          "start": 12,
+          "end": 19,
+          "confidence": 0.12322226166725159,
+          "topicId": 48519,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "312": {
+    "docId": "312",
+    "entityMap": {}
+  },
+  "313": {
+    "docId": "313",
+    "entityMap": {
+      "19716": [
+        {
+          "originalText": "Magnetic",
+          "start": 0,
+          "end": 8,
+          "confidence": 0.017284367233514786,
+          "topicId": 19716,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "310": {
+    "docId": "310",
+    "entityMap": {
+      "37284": [
+        {
+          "originalText": "Brain Cancer",
+          "start": 16,
+          "end": 28,
+          "confidence": 0.31210944056510925,
+          "topicId": 37284,
+          "sentenceId": 0
+        }
+      ],
+      "42852": [
+        {
+          "originalText": "Radio Waves",
+          "start": 0,
+          "end": 11,
+          "confidence": 0.22155000269412994,
+          "topicId": 42852,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "311": {
+    "docId": "311",
+    "entityMap": {
+      "15508": [
+        {
+          "originalText": "Industrial Espionage",
+          "start": 0,
+          "end": 20,
+          "confidence": 0.33796295523643494,
+          "topicId": 15508,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "418": {
+    "docId": "418",
+    "entityMap": {
+      "15037": [
+        {
+          "originalText": "income",
+          "start": 7,
+          "end": 13,
+          "confidence": 0.005231058690696955,
+          "topicId": 15037,
+          "sentenceId": 0
+        }
+      ],
+      "89202": [
+        {
+          "originalText": "quilts",
+          "start": 0,
+          "end": 6,
+          "confidence": 0.029652351513504982,
+          "topicId": 89202,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "417": {
+    "docId": "417",
+    "entityMap": {
+      "142910": [
+        {
+          "originalText": "creativity",
+          "start": 0,
+          "end": 10,
+          "confidence": 0.027350835502147675,
+          "topicId": 142910,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "416": {
+    "docId": "416",
+    "entityMap": {
+      "65192": [
+        {
+          "originalText": "Three Gorges Project",
+          "start": 0,
+          "end": 20,
+          "confidence": 0.3529411852359772,
+          "topicId": 65192,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "415": {
+    "docId": "415",
+    "entityMap": {
+      "25949": [
+        {
+          "originalText": "drugs",
+          "start": 0,
+          "end": 5,
+          "confidence": 0.27186667919158936,
+          "topicId": 25949,
+          "sentenceId": 0
+        }
+      ],
+      "4525386": [
+        {
+          "originalText": "Golden Triangle",
+          "start": 6,
+          "end": 21,
+          "confidence": 0.5648930072784424,
+          "topicId": 4525386,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "623": {
+    "docId": "623",
+    "entityMap": {
+      "170567": [
+        {
+          "originalText": "toxic",
+          "start": 0,
+          "end": 5,
+          "confidence": 0.2962706685066223,
+          "topicId": 170567,
+          "sentenceId": 0
+        }
+      ],
+      "27179600": [
+        {
+          "originalText": "chemical weapon",
+          "start": 6,
+          "end": 21,
+          "confidence": 0.7490000128746033,
+          "topicId": 27179600,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "622": {
+    "docId": "622",
+    "entityMap": {
+      "92026": [
+        {
+          "originalText": "price fixing",
+          "start": 0,
+          "end": 12,
+          "confidence": 0.23630136251449585,
+          "topicId": 92026,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "621": {
+    "docId": "621",
+    "entityMap": {
+      "5955": [
+        {
+          "originalText": "Church of England",
+          "start": 15,
+          "end": 32,
+          "confidence": 0.5453789234161377,
+          "topicId": 5955,
+          "sentenceId": 0
+        }
+      ],
+      "217115": [
+        {
+          "originalText": "ordained",
+          "start": 6,
+          "end": 14,
+          "confidence": 0.3353593051433563,
+          "topicId": 217115,
+          "sentenceId": 0
+        }
+      ],
+      "33183": [
+        {
+          "originalText": "women",
+          "start": 0,
+          "end": 5,
+          "confidence": 0.0841795802116394,
+          "topicId": 33183,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "419": {
+    "docId": "419",
+    "entityMap": {
+      "13673345": [
+        {
+          "originalText": "automobile",
+          "start": 8,
+          "end": 18,
+          "confidence": 0.33168333768844604,
+          "topicId": 13673345,
+          "sentenceId": 0
+        }
+      ],
+      "70157": [
+        {
+          "originalText": "recycle",
+          "start": 0,
+          "end": 7,
+          "confidence": 0.25058889389038086,
+          "topicId": 70157,
+          "sentenceId": 0
+        }
+      ],
+      "65037": [
+        {
+          "originalText": "tires",
+          "start": 19,
+          "end": 24,
+          "confidence": 0.2729588747024536,
+          "topicId": 65037,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "620": {
+    "docId": "620",
+    "entityMap": {
+      "337775": [
+        {
+          "originalText": "nuclear testing",
+          "start": 7,
+          "end": 22,
+          "confidence": 0.21283701062202454,
+          "topicId": 337775,
+          "sentenceId": 0
+        }
+      ],
+      "5843419": [
+        {
+          "originalText": "France",
+          "start": 0,
+          "end": 6,
+          "confidence": 0.29187655448913574,
+          "topicId": 5843419,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "410": {
+    "docId": "410",
+    "entityMap": {
+      "179592": [
+        {
+          "originalText": "Schengen agreement",
+          "start": 0,
+          "end": 18,
+          "confidence": 0.5,
+          "topicId": 179592,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "627": {
+    "docId": "627",
+    "entityMap": {
+      "644135": [
+        {
+          "originalText": "Russian food",
+          "start": 0,
+          "end": 12,
+          "confidence": 0.2828499972820282,
+          "topicId": 644135,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "626": {
+    "docId": "626",
+    "entityMap": {
+      "19377820": [
+        {
+          "originalText": "human stampede",
+          "start": 0,
+          "end": 14,
+          "confidence": 0.1666666716337204,
+          "topicId": 19377820,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "625": {
+    "docId": "625",
+    "entityMap": {
+      "47628": [
+        {
+          "originalText": "bombing",
+          "start": 8,
+          "end": 15,
+          "confidence": 0.19930779933929443,
+          "topicId": 47628,
+          "sentenceId": 0
+        }
+      ],
+      "11395198": [
+        {
+          "originalText": "WTC",
+          "start": 16,
+          "end": 19,
+          "confidence": 0.1562078595161438,
+          "topicId": 11395198,
+          "sentenceId": 0
+        }
+      ],
+      "170638": [
+        {
+          "originalText": "arrests",
+          "start": 0,
+          "end": 7,
+          "confidence": 0.15728934109210968,
+          "topicId": 170638,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "624": {
+    "docId": "624",
+    "entityMap": {
+      "29186": [
+        {
+          "originalText": "SDI",
+          "start": 0,
+          "end": 3,
+          "confidence": 0.6169102191925049,
+          "topicId": 29186,
+          "sentenceId": 0
+        },
+        {
+          "originalText": "Star Wars",
+          "start": 4,
+          "end": 13,
+          "confidence": 0.935325026512146,
+          "topicId": 29186,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "414": {
+    "docId": "414",
+    "entityMap": {
+      "27712": [
+        {
+          "originalText": "sugar",
+          "start": 5,
+          "end": 10,
+          "confidence": 0.2466653287410736,
+          "topicId": 27712,
+          "sentenceId": 0
+        }
+      ],
+      "307592": [
+        {
+          "originalText": "exports",
+          "start": 11,
+          "end": 18,
+          "confidence": 0.1882600635290146,
+          "topicId": 307592,
+          "sentenceId": 0
+        }
+      ],
+      "5042481": [
+        {
+          "originalText": "Cuba",
+          "start": 0,
+          "end": 4,
+          "confidence": 0.5093276500701904,
+          "topicId": 5042481,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "413": {
+    "docId": "413",
+    "entityMap": {
+      "27058": [
+        {
+          "originalText": "steel",
+          "start": 0,
+          "end": 5,
+          "confidence": 0.539696991443634,
+          "topicId": 27058,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "412": {
+    "docId": "412",
+    "entityMap": {
+      "284770": [
+        {
+          "originalText": "airport security",
+          "start": 0,
+          "end": 16,
+          "confidence": 0.12743189930915833,
+          "topicId": 284770,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "629": {
+    "docId": "629",
+    "entityMap": {
+      "1930919": [
+        {
+          "originalText": "abortion clinic",
+          "start": 0,
+          "end": 15,
+          "confidence": 0.46777933835983276,
+          "topicId": 1930919,
+          "sentenceId": 0
+        }
+      ],
+      "31981": [
+        {
+          "originalText": "attack",
+          "start": 16,
+          "end": 22,
+          "confidence": 0.13692228496074677,
+          "topicId": 31981,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "411": {
+    "docId": "411",
+    "entityMap": {
+      "146880": [
+        {
+          "originalText": "treasure",
+          "start": 20,
+          "end": 28,
+          "confidence": 0.2768591046333313,
+          "topicId": 146880,
+          "sentenceId": 0
+        }
+      ],
+      "272778": [
+        {
+          "originalText": "shipwreck",
+          "start": 10,
+          "end": 19,
+          "confidence": 0.42321300506591797,
+          "topicId": 272778,
+          "sentenceId": 0
+        }
+      ],
+      "3321698": [
+        {
+          "originalText": "salvaging",
+          "start": 0,
+          "end": 9,
+          "confidence": 0.2953032851219177,
+          "topicId": 3321698,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "628": {
+    "docId": "628",
+    "entityMap": {
+      "205550": [
+        {
+          "originalText": "U.S. invasion of Panama",
+          "start": 0,
+          "end": 21,
+          "confidence": 0.3913043439388275,
+          "topicId": 205550,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "327": {
+    "docId": "327",
+    "entityMap": {
+      "27992": [
+        {
+          "originalText": "Slavery",
+          "start": 7,
+          "end": 14,
+          "confidence": 0.612695574760437,
+          "topicId": 27992,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "328": {
+    "docId": "328",
+    "entityMap": {
+      "23056": [
+        {
+          "originalText": "Pope",
+          "start": 0,
+          "end": 4,
+          "confidence": 0.07165397703647614,
+          "topicId": 23056,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "329": {
+    "docId": "329",
+    "entityMap": {
+      "10934212": [
+        {
+          "originalText": "Air Pollution",
+          "start": 8,
+          "end": 21,
+          "confidence": 0.27948087453842163,
+          "topicId": 10934212,
+          "sentenceId": 0
+        }
+      ],
+      "220841": [
+        {
+          "originalText": "Mexican",
+          "start": 0,
+          "end": 7,
+          "confidence": 0.2317965179681778,
+          "topicId": 220841,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "323": {
+    "docId": "323",
+    "entityMap": {
+      "15928": [
+        {
+          "originalText": "Journalistic",
+          "start": 9,
+          "end": 21,
+          "confidence": 0.22801972925662994,
+          "topicId": 15928,
+          "sentenceId": 0
+        }
+      ],
+      "18960210": [
+        {
+          "originalText": "Plagiarism",
+          "start": 22,
+          "end": 32,
+          "confidence": 0.37164101004600525,
+          "topicId": 18960210,
+          "sentenceId": 0
+        }
+      ],
+      "18963870": [
+        {
+          "originalText": "Literary",
+          "start": 0,
+          "end": 8,
+          "confidence": 0.23846837878227234,
+          "topicId": 18963870,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "324": {
+    "docId": "324",
+    "entityMap": {
+      "16594665": [
+        {
+          "originalText": "Argentine/British Relations",
+          "start": 0,
+          "end": 27,
+          "confidence": 0.5,
+          "topicId": 16594665,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "325": {
+    "docId": "325",
+    "entityMap": {
+      "190041": [
+        {
+          "originalText": "Lifestyles",
+          "start": 5,
+          "end": 15,
+          "confidence": 0.18431854248046875,
+          "topicId": 190041,
+          "sentenceId": 0
+        }
+      ],
+      "1008588": [
+        {
+          "originalText": "Cult",
+          "start": 0,
+          "end": 4,
+          "confidence": 0.22797003388404846,
+          "topicId": 1008588,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "326": {
+    "docId": "326",
+    "entityMap": {
+      "50771": [
+        {
+          "originalText": "Ferry",
+          "start": 0,
+          "end": 5,
+          "confidence": 0.053280141204595566,
+          "topicId": 50771,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "320": {
+    "docId": "320",
+    "entityMap": {
+      "45206": [
+        {
+          "originalText": "Undersea",
+          "start": 0,
+          "end": 8,
+          "confidence": 0.4571738839149475,
+          "topicId": 45206,
+          "sentenceId": 0
+        }
+      ],
+      "3372377": [
+        {
+          "originalText": "Fiber Optic Cable",
+          "start": 9,
+          "end": 26,
+          "confidence": 0.6195966601371765,
+          "topicId": 3372377,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "321": {
+    "docId": "321",
+    "entityMap": {
+      "24406": [
+        {
+          "originalText": "Parliaments",
+          "start": 9,
+          "end": 20,
+          "confidence": 0.1972520649433136,
+          "topicId": 24406,
+          "sentenceId": 0
+        }
+      ],
+      "145439": [
+        {
+          "originalText": "Women",
+          "start": 0,
+          "end": 5,
+          "confidence": 0.18712957203388214,
+          "topicId": 145439,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "322": {
+    "docId": "322",
+    "entityMap": {
+      "3741372": [
+        {
+          "originalText": "International",
+          "start": 0,
+          "end": 13,
+          "confidence": 0.002174381399527192,
+          "topicId": 3741372,
+          "sentenceId": 0
+        }
+      ],
+      "28814472": [
+        {
+          "originalText": "Art Crime",
+          "start": 14,
+          "end": 23,
+          "confidence": 0.375,
+          "topicId": 28814472,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "427": {
+    "docId": "427",
+    "entityMap": {
+      "31990": [
+        {
+          "originalText": "UV",
+          "start": 0,
+          "end": 2,
+          "confidence": 0.250541090965271,
+          "topicId": 31990,
+          "sentenceId": 0
+        }
+      ],
+      "56533": [
+        {
+          "originalText": "damage, eyes",
+          "start": 3,
+          "end": 14,
+          "confidence": 0.2655285894870758,
+          "topicId": 56533,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "426": {
+    "docId": "426",
+    "entityMap": {
+      "537859": [
+        {
+          "originalText": "dogs",
+          "start": 16,
+          "end": 20,
+          "confidence": 0.33747828006744385,
+          "topicId": 537859,
+          "sentenceId": 0
+        }
+      ],
+      "30871819": [
+        {
+          "originalText": "law enforcement",
+          "start": 0,
+          "end": 15,
+          "confidence": 0.36233052611351013,
+          "topicId": 30871819,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "429": {
+    "docId": "429",
+    "entityMap": {
+      "41678169": [
+        {
+          "originalText": "Legionnaires\u0027 disease",
+          "start": 0,
+          "end": 20,
+          "confidence": 0.5,
+          "topicId": 41678169,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "428": {
+    "docId": "428",
+    "entityMap": {
+      "717439": [
+        {
+          "originalText": "declining birth rates",
+          "start": 0,
+          "end": 21,
+          "confidence": 0.03999999910593033,
+          "topicId": 717439,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "610": {
+    "docId": "610",
+    "entityMap": {
+      "18862": [
+        {
+          "originalText": "minimum wage",
+          "start": 0,
+          "end": 12,
+          "confidence": 0.2119002789258957,
+          "topicId": 18862,
+          "sentenceId": 0
+        }
+      ],
+      "2973859": [
+        {
+          "originalText": "adverse impact",
+          "start": 13,
+          "end": 27,
+          "confidence": 0.013605441898107529,
+          "topicId": 2973859,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "612": {
+    "docId": "612",
+    "entityMap": {
+      "266137": [
+        {
+          "originalText": "protesters",
+          "start": 6,
+          "end": 16,
+          "confidence": 0.09806522727012634,
+          "topicId": 266137,
+          "sentenceId": 0
+        }
+      ],
+      "31516": [
+        {
+          "originalText": "Tibet",
+          "start": 0,
+          "end": 5,
+          "confidence": 0.4236516058444977,
+          "topicId": 31516,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "611": {
+    "docId": "611",
+    "entityMap": {
+      "46112": [
+        {
+          "originalText": "violence",
+          "start": 14,
+          "end": 22,
+          "confidence": 0.01276023406535387,
+          "topicId": 46112,
+          "sentenceId": 0
+        }
+      ],
+      "3979351": [
+        {
+          "originalText": "Kurds Germany",
+          "start": 0,
+          "end": 13,
+          "confidence": 0.5,
+          "topicId": 3979351,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "614": {
+    "docId": "614",
+    "entityMap": {
+      "9940234": [
+        {
+          "originalText": "tomato",
+          "start": 11,
+          "end": 17,
+          "confidence": 0.4735119342803955,
+          "topicId": 9940234,
+          "sentenceId": 0
+        }
+      ],
+      "293676": [
+        {
+          "originalText": "Flavr Savr",
+          "start": 0,
+          "end": 10,
+          "confidence": 0.8646999597549438,
+          "topicId": 293676,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "613": {
+    "docId": "613",
+    "entityMap": {
+      "146382": [
+        {
+          "originalText": "disposal",
+          "start": 12,
+          "end": 20,
+          "confidence": 0.1549757719039917,
+          "topicId": 146382,
+          "sentenceId": 0
+        }
+      ],
+      "3722": [
+        {
+          "originalText": "Berlin wall",
+          "start": 0,
+          "end": 11,
+          "confidence": 0.6016679406166077,
+          "topicId": 3722,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "421": {
+    "docId": "421",
+    "entityMap": {
+      "210555": [
+        {
+          "originalText": "waste disposal",
+          "start": 11,
+          "end": 25,
+          "confidence": 0.555085301399231,
+          "topicId": 210555,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "616": {
+    "docId": "616",
+    "entityMap": {
+      "3966054": [
+        {
+          "originalText": "Mexico",
+          "start": 11,
+          "end": 17,
+          "confidence": 0.3216215968132019,
+          "topicId": 3966054,
+          "sentenceId": 0
+        }
+      ],
+      "32413": [
+        {
+          "originalText": "Volkswagen",
+          "start": 0,
+          "end": 10,
+          "confidence": 0.34389805793762207,
+          "topicId": 32413,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "420": {
+    "docId": "420",
+    "entityMap": {
+      "488743": [
+        {
+          "originalText": "carbon monoxide",
+          "start": 0,
+          "end": 15,
+          "confidence": 0.6661326289176941,
+          "topicId": 488743,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "615": {
+    "docId": "615",
+    "entityMap": {
+      "59399": [
+        {
+          "originalText": "timber",
+          "start": 0,
+          "end": 6,
+          "confidence": 0.2180035412311554,
+          "topicId": 59399,
+          "sentenceId": 0
+        }
+      ],
+      "307592": [
+        {
+          "originalText": "exports",
+          "start": 7,
+          "end": 14,
+          "confidence": 0.20003506541252136,
+          "topicId": 307592,
+          "sentenceId": 0
+        }
+      ],
+      "689": [
+        {
+          "originalText": "Asia",
+          "start": 15,
+          "end": 19,
+          "confidence": 0.22587913274765015,
+          "topicId": 689,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "423": {
+    "docId": "423",
+    "entityMap": {
+      "25862556": [
+        {
+          "originalText": "Milosevic",
+          "start": 0,
+          "end": 9,
+          "confidence": 0.4236396551132202,
+          "topicId": 25862556,
+          "sentenceId": 0
+        }
+      ],
+      "648803": [
+        {
+          "originalText": "Mirjana Markovic",
+          "start": 10,
+          "end": 26,
+          "confidence": 0.8529499769210815,
+          "topicId": 648803,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "618": {
+    "docId": "618",
+    "entityMap": {
+      "26232": [
+        {
+          "originalText": "Ayatollah Khomeini",
+          "start": 0,
+          "end": 18,
+          "confidence": 0.609014630317688,
+          "topicId": 26232,
+          "sentenceId": 0
+        }
+      ],
+      "19075848": [
+        {
+          "originalText": "death",
+          "start": 19,
+          "end": 24,
+          "confidence": 0.1969817876815796,
+          "topicId": 19075848,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "422": {
+    "docId": "422",
+    "entityMap": {
+      "62312": [
+        {
+          "originalText": "forged",
+          "start": 11,
+          "end": 17,
+          "confidence": 0.2570156157016754,
+          "topicId": 62312,
+          "sentenceId": 0
+        }
+      ],
+      "31287": [
+        {
+          "originalText": "stolen",
+          "start": 4,
+          "end": 10,
+          "confidence": 0.23753371834754944,
+          "topicId": 31287,
+          "sentenceId": 0
+        }
+      ],
+      "752": [
+        {
+          "originalText": "art",
+          "start": 0,
+          "end": 3,
+          "confidence": 0.11708259582519531,
+          "topicId": 752,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "617": {
+    "docId": "617",
+    "entityMap": {
+      "5588": [
+        {
+          "originalText": "Cuba economy",
+          "start": 7,
+          "end": 19,
+          "confidence": 0.6313499808311462,
+          "topicId": 5588,
+          "sentenceId": 0
+        }
+      ],
+      "25391": [
+        {
+          "originalText": "Russia",
+          "start": 0,
+          "end": 6,
+          "confidence": 0.5222572684288025,
+          "topicId": 25391,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "425": {
+    "docId": "425",
+    "entityMap": {
+      "1719292": [
+        {
+          "originalText": "counterfeiting",
+          "start": 0,
+          "end": 14,
+          "confidence": 0.5976852178573608,
+          "topicId": 1719292,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "424": {
+    "docId": "424",
+    "entityMap": {
+      "16831059": [
+        {
+          "originalText": "suicides",
+          "start": 0,
+          "end": 8,
+          "confidence": 0.018588531762361526,
+          "topicId": 16831059,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "619": {
+    "docId": "619",
+    "entityMap": {
+      "33683": [
+        {
+          "originalText": "Winnie Mandela",
+          "start": 0,
+          "end": 14,
+          "confidence": 0.5,
+          "topicId": 33683,
+          "sentenceId": 0
+        }
+      ],
+      "146454": [
+        {
+          "originalText": "scandal",
+          "start": 15,
+          "end": 22,
+          "confidence": 0.02152920328080654,
+          "topicId": 146454,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "435": {
+    "docId": "435",
+    "entityMap": {
+      "940606": [
+        {
+          "originalText": "population growth",
+          "start": 8,
+          "end": 25,
+          "confidence": 0.029399262741208076,
+          "topicId": 940606,
+          "sentenceId": 0
+        }
+      ],
+      "42357752": [
+        {
+          "originalText": "curbing",
+          "start": 0,
+          "end": 7,
+          "confidence": 0.0020891365129500628,
+          "topicId": 42357752,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "436": {
+    "docId": "436",
+    "entityMap": {
+      "963688": [
+        {
+          "originalText": "railway accidents",
+          "start": 0,
+          "end": 17,
+          "confidence": 0.04399999976158142,
+          "topicId": 963688,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "433": {
+    "docId": "433",
+    "entityMap": {
+      "19224834": [
+        {
+          "originalText": "stoicism",
+          "start": 17,
+          "end": 25,
+          "confidence": 0.6907056570053101,
+          "topicId": 19224834,
+          "sentenceId": 0
+        }
+      ],
+      "171171": [
+        {
+          "originalText": "Greek, philosophy",
+          "start": 0,
+          "end": 16,
+          "confidence": 0.5431126356124878,
+          "topicId": 171171,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "434": {
+    "docId": "434",
+    "entityMap": {
+      "28222445": [
+        {
+          "originalText": "Estonia",
+          "start": 0,
+          "end": 7,
+          "confidence": 0.7262858152389526,
+          "topicId": 28222445,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "431": {
+    "docId": "431",
+    "entityMap": {
+      "29816": [
+        {
+          "originalText": "technology",
+          "start": 8,
+          "end": 18,
+          "confidence": 0.35406091809272766,
+          "topicId": 29816,
+          "sentenceId": 0
+        }
+      ],
+      "20903754": [
+        {
+          "originalText": "robotic",
+          "start": 0,
+          "end": 7,
+          "confidence": 0.35804715752601624,
+          "topicId": 20903754,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "700": {
+    "docId": "700",
+    "entityMap": {
+      "18717338": [
+        {
+          "originalText": "U.S",
+          "start": 13,
+          "end": 15,
+          "confidence": 0.14685195684432983,
+          "topicId": 18717338,
+          "sentenceId": 0
+        }
+      ],
+      "360781": [
+        {
+          "originalText": "gasoline tax",
+          "start": 0,
+          "end": 12,
+          "confidence": 0.3129962086677551,
+          "topicId": 360781,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "432": {
+    "docId": "432",
+    "entityMap": {
+      "23627": [
+        {
+          "originalText": "police",
+          "start": 20,
+          "end": 26,
+          "confidence": 0.24127402901649475,
+          "topicId": 23627,
+          "sentenceId": 0
+        }
+      ],
+      "26131": [
+        {
+          "originalText": "profiling",
+          "start": 0,
+          "end": 9,
+          "confidence": 0.13777445256710052,
+          "topicId": 26131,
+          "sentenceId": 0
+        }
+      ],
+      "80750": [
+        {
+          "originalText": "motorists",
+          "start": 10,
+          "end": 19,
+          "confidence": 0.10748118162155151,
+          "topicId": 80750,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "430": {
+    "docId": "430",
+    "entityMap": {
+      "5058690": [
+        {
+          "originalText": "attacks",
+          "start": 11,
+          "end": 18,
+          "confidence": 0.10113134980201721,
+          "topicId": 5058690,
+          "sentenceId": 0
+        }
+      ],
+      "161804": [
+        {
+          "originalText": "killer bee",
+          "start": 0,
+          "end": 10,
+          "confidence": 0.3109374940395355,
+          "topicId": 161804,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "439": {
+    "docId": "439",
+    "entityMap": {
+      "53231": [
+        {
+          "originalText": "discoveries",
+          "start": 22,
+          "end": 33,
+          "confidence": 0.2646492123603821,
+          "topicId": 53231,
+          "sentenceId": 0
+        }
+      ],
+      "44312": [
+        {
+          "originalText": "inventions",
+          "start": 0,
+          "end": 10,
+          "confidence": 0.29079967737197876,
+          "topicId": 44312,
+          "sentenceId": 0
+        }
+      ],
+      "26700": [
+        {
+          "originalText": "scientific",
+          "start": 11,
+          "end": 21,
+          "confidence": 0.23257000744342804,
+          "topicId": 26700,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "437": {
+    "docId": "437",
+    "entityMap": {
+      "140281": [
+        {
+          "originalText": "deregulation",
+          "start": 0,
+          "end": 12,
+          "confidence": 0.3310837149620056,
+          "topicId": 140281,
+          "sentenceId": 0
+        }
+      ],
+      "9550": [
+        {
+          "originalText": "electric",
+          "start": 17,
+          "end": 25,
+          "confidence": 0.27182087302207947,
+          "topicId": 9550,
+          "sentenceId": 0
+        }
+      ],
+      "22131": [
+        {
+          "originalText": "gas",
+          "start": 13,
+          "end": 16,
+          "confidence": 0.2810981869697571,
+          "topicId": 22131,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "438": {
+    "docId": "438",
+    "entityMap": {
+      "29789": [
+        {
+          "originalText": "tourism",
+          "start": 0,
+          "end": 7,
+          "confidence": 0.05173299461603165,
+          "topicId": 29789,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "302": {
+    "docId": "302",
+    "entityMap": {
+      "381345": [
+        {
+          "originalText": "Post-Polio",
+          "start": 18,
+          "end": 27,
+          "confidence": 0.39012500643730164,
+          "topicId": 381345,
+          "sentenceId": 0
+        }
+      ],
+      "25107": [
+        {
+          "originalText": "Poliomyelitis",
+          "start": 0,
+          "end": 13,
+          "confidence": 0.7962507009506226,
+          "topicId": 25107,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "301": {
+    "docId": "301",
+    "entityMap": {
+      "22625": [
+        {
+          "originalText": "Organized Crime",
+          "start": 14,
+          "end": 29,
+          "confidence": 0.3594842553138733,
+          "topicId": 22625,
+          "sentenceId": 0
+        }
+      ],
+      "8195726": [
+        {
+          "originalText": "International",
+          "start": 0,
+          "end": 13,
+          "confidence": 0.20412437617778778,
+          "topicId": 8195726,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "304": {
+    "docId": "304",
+    "entityMap": {
+      "18838": [
+        {
+          "originalText": "Mammals",
+          "start": 19,
+          "end": 26,
+          "confidence": 0.3440428078174591,
+          "topicId": 18838,
+          "sentenceId": 0
+        }
+      ],
+      "20110668": [
+        {
+          "originalText": "Endangered Species",
+          "start": 0,
+          "end": 18,
+          "confidence": 0.4866642355918884,
+          "topicId": 20110668,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "303": {
+    "docId": "303",
+    "entityMap": {
+      "40203": [
+        {
+          "originalText": "Hubble Telescope",
+          "start": 0,
+          "end": 16,
+          "confidence": 0.3928571343421936,
+          "topicId": 40203,
+          "sentenceId": 0
+        }
+      ],
+      "28068084": [
+        {
+          "originalText": "Achievements",
+          "start": 17,
+          "end": 29,
+          "confidence": 0.0011320305056869984,
+          "topicId": 28068084,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "306": {
+    "docId": "306",
+    "entityMap": {
+      "145804": [
+        {
+          "originalText": "Civilian",
+          "start": 8,
+          "end": 16,
+          "confidence": 0.196869894862175,
+          "topicId": 145804,
+          "sentenceId": 0
+        }
+      ],
+      "2154": [
+        {
+          "originalText": "African",
+          "start": 0,
+          "end": 7,
+          "confidence": 0.09034399688243866,
+          "topicId": 2154,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "305": {
+    "docId": "305",
+    "entityMap": {
+      "32410": [
+        {
+          "originalText": "Vehicles",
+          "start": 15,
+          "end": 23,
+          "confidence": 0.19280260801315308,
+          "topicId": 32410,
+          "sentenceId": 0
+        }
+      ],
+      "24462958": [
+        {
+          "originalText": "Dangerous",
+          "start": 5,
+          "end": 14,
+          "confidence": 0.1955033540725708,
+          "topicId": 24462958,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "308": {
+    "docId": "308",
+    "entityMap": {
+      "8005": [
+        {
+          "originalText": "Dentistry",
+          "start": 8,
+          "end": 17,
+          "confidence": 0.4922506809234619,
+          "topicId": 8005,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "307": {
+    "docId": "307",
+    "entityMap": {
+      "14073": [
+        {
+          "originalText": "Hydroelectric",
+          "start": 4,
+          "end": 17,
+          "confidence": 9.007849730551243E-4,
+          "topicId": 14073,
+          "sentenceId": 0
+        }
+      ],
+      "160483": [
+        {
+          "originalText": "Projects",
+          "start": 18,
+          "end": 26,
+          "confidence": 6.445982726290822E-4,
+          "topicId": 160483,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "309": {
+    "docId": "309",
+    "entityMap": {
+      "25421": [
+        {
+          "originalText": "Rap",
+          "start": 0,
+          "end": 3,
+          "confidence": 0.13662761449813843,
+          "topicId": 25421,
+          "sentenceId": 0
+        }
+      ],
+      "5785": [
+        {
+          "originalText": "Crime",
+          "start": 8,
+          "end": 13,
+          "confidence": 0.09087914973497391,
+          "topicId": 5785,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "444": {
+    "docId": "444",
+    "entityMap": {
+      "762691": [
+        {
+          "originalText": "supercritical fluids",
+          "start": 0,
+          "end": 20,
+          "confidence": 0.2380952388048172,
+          "topicId": 762691,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "445": {
+    "docId": "445",
+    "entityMap": {
+      "33183": [
+        {
+          "originalText": "women",
+          "start": 0,
+          "end": 5,
+          "confidence": 0.19302958250045776,
+          "topicId": 33183,
+          "sentenceId": 0
+        }
+      ],
+      "50405": [
+        {
+          "originalText": "clergy",
+          "start": 6,
+          "end": 12,
+          "confidence": 0.24347878992557526,
+          "topicId": 50405,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "446": {
+    "docId": "446",
+    "entityMap": {
+      "46112": [
+        {
+          "originalText": "violence",
+          "start": 9,
+          "end": 17,
+          "confidence": 0.08336023986339569,
+          "topicId": 46112,
+          "sentenceId": 0
+        }
+      ],
+      "29789": [
+        {
+          "originalText": "tourists",
+          "start": 0,
+          "end": 8,
+          "confidence": 0.08095186948776245,
+          "topicId": 29789,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "447": {
+    "docId": "447",
+    "entityMap": {
+      "186919": [
+        {
+          "originalText": "Stirling engine",
+          "start": 0,
+          "end": 15,
+          "confidence": 0.5,
+          "topicId": 186919,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "440": {
+    "docId": "440",
+    "entityMap": {
+      "101942": [
+        {
+          "originalText": "child labor",
+          "start": 0,
+          "end": 11,
+          "confidence": 0.19534413516521454,
+          "topicId": 101942,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "441": {
+    "docId": "441",
+    "entityMap": {
+      "244113": [
+        {
+          "originalText": "Lyme disease",
+          "start": 0,
+          "end": 12,
+          "confidence": 0.5,
+          "topicId": 244113,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "442": {
+    "docId": "442",
+    "entityMap": {
+      "1261305": [
+        {
+          "originalText": "acts",
+          "start": 7,
+          "end": 11,
+          "confidence": 0.18508101999759674,
+          "topicId": 1261305,
+          "sentenceId": 0
+        }
+      ],
+      "9418": [
+        {
+          "originalText": "heroic",
+          "start": 0,
+          "end": 6,
+          "confidence": 0.18434098362922668,
+          "topicId": 9418,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "443": {
+    "docId": "443",
+    "entityMap": {
+      "18717338": [
+        {
+          "originalText": "U.S",
+          "start": 0,
+          "end": 2,
+          "confidence": 0.17725196480751038,
+          "topicId": 18717338,
+          "sentenceId": 0
+        }
+      ],
+      "63121": [
+        {
+          "originalText": "investment",
+          "start": 3,
+          "end": 13,
+          "confidence": 0.16481821238994598,
+          "topicId": 63121,
+          "sentenceId": 0
+        }
+      ],
+      "5334607": [
+        {
+          "originalText": "Africa",
+          "start": 14,
+          "end": 20,
+          "confidence": 0.1962594985961914,
+          "topicId": 5334607,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "448": {
+    "docId": "448",
+    "entityMap": {
+      "27008": [
+        {
+          "originalText": "ship",
+          "start": 0,
+          "end": 4,
+          "confidence": 0.14043305814266205,
+          "topicId": 27008,
+          "sentenceId": 0
+        }
+      ],
+      "19417927": [
+        {
+          "originalText": "losses",
+          "start": 5,
+          "end": 11,
+          "confidence": 0.13127221167087555,
+          "topicId": 19417927,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "449": {
+    "docId": "449",
+    "entityMap": {
+      "1805": [
+        {
+          "originalText": "antibiotics",
+          "start": 0,
+          "end": 11,
+          "confidence": 0.12512944638729095,
+          "topicId": 1805,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "450": {
+    "docId": "450",
+    "entityMap": {
+      "80608": [
+        {
+          "originalText": "King Hussein",
+          "start": 0,
+          "end": 12,
+          "confidence": 0.4852755069732666,
+          "topicId": 80608,
+          "sentenceId": 0
+        }
+      ],
+      "26230922": [
+        {
+          "originalText": "peace",
+          "start": 13,
+          "end": 18,
+          "confidence": 0.2300558090209961,
+          "topicId": 26230922,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "687": {
+    "docId": "687",
+    "entityMap": {
+      "21265": [
+        {
+          "originalText": "Northern Ireland",
+          "start": 0,
+          "end": 16,
+          "confidence": 0.41397085785865784,
+          "topicId": 21265,
+          "sentenceId": 0
+        }
+      ],
+      "642885": [
+        {
+          "originalText": "industry",
+          "start": 17,
+          "end": 25,
+          "confidence": 0.03827229142189026,
+          "topicId": 642885,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "686": {
+    "docId": "686",
+    "entityMap": {
+      "18717338": [
+        {
+          "originalText": "dollar",
+          "start": 18,
+          "end": 24,
+          "confidence": 0.21129141747951508,
+          "topicId": 18717338,
+          "sentenceId": 0
+        }
+      ],
+      "18951905": [
+        {
+          "originalText": "Argentina",
+          "start": 0,
+          "end": 9,
+          "confidence": 0.4719250202178955,
+          "topicId": 18951905,
+          "sentenceId": 0
+        }
+      ],
+      "21534875": [
+        {
+          "originalText": "pegging",
+          "start": 10,
+          "end": 17,
+          "confidence": 0.2872181832790375,
+          "topicId": 21534875,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "689": {
+    "docId": "689",
+    "entityMap": {
+      "1908551": [
+        {
+          "originalText": "aid",
+          "start": 15,
+          "end": 18,
+          "confidence": 0.0015264045214280486,
+          "topicId": 1908551,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "688": {
+    "docId": "688",
+    "entityMap": {
+      "18932": [
+        {
+          "originalText": "media bias",
+          "start": 6,
+          "end": 16,
+          "confidence": 0.2521551847457886,
+          "topicId": 18932,
+          "sentenceId": 0
+        }
+      ],
+      "25372540": [
+        {
+          "originalText": "non-U.S",
+          "start": 0,
+          "end": 5,
+          "confidence": 0.007666098885238171,
+          "topicId": 25372540,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "683": {
+    "docId": "683",
+    "entityMap": {
+      "1810963": [
+        {
+          "originalText": "Czechoslovakia",
+          "start": 0,
+          "end": 14,
+          "confidence": 0.7982907295227051,
+          "topicId": 1810963,
+          "sentenceId": 0
+        }
+      ],
+      "873028": [
+        {
+          "originalText": "breakup",
+          "start": 15,
+          "end": 22,
+          "confidence": 0.4061282277107239,
+          "topicId": 873028,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "682": {
+    "docId": "682",
+    "entityMap": {
+      "4599312": [
+        {
+          "originalText": "immigrants",
+          "start": 6,
+          "end": 16,
+          "confidence": 0.20226448774337769,
+          "topicId": 4599312,
+          "sentenceId": 0
+        }
+      ],
+      "20557093": [
+        {
+          "originalText": "English",
+          "start": 17,
+          "end": 24,
+          "confidence": 0.21466979384422302,
+          "topicId": 20557093,
+          "sentenceId": 0
+        }
+      ],
+      "5710507": [
+        {
+          "originalText": "adult",
+          "start": 0,
+          "end": 5,
+          "confidence": 0.07366718351840973,
+          "topicId": 5710507,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "685": {
+    "docId": "685",
+    "entityMap": {
+      "324": [
+        {
+          "originalText": "Oscar",
+          "start": 0,
+          "end": 5,
+          "confidence": 0.33548933267593384,
+          "topicId": 324,
+          "sentenceId": 0
+        }
+      ],
+      "6439791": [
+        {
+          "originalText": "selection",
+          "start": 13,
+          "end": 22,
+          "confidence": 0.0653238371014595,
+          "topicId": 6439791,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "684": {
+    "docId": "684",
+    "entityMap": {
+      "1633074": [
+        {
+          "originalText": "benefits",
+          "start": 9,
+          "end": 17,
+          "confidence": 0.45436209440231323,
+          "topicId": 1633074,
+          "sentenceId": 0
+        }
+      ],
+      "1798796": [
+        {
+          "originalText": "part-time",
+          "start": 0,
+          "end": 8,
+          "confidence": 0.4578326940536499,
+          "topicId": 1798796,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "680": {
+    "docId": "680",
+    "entityMap": {
+      "963152": [
+        {
+          "originalText": "Spanish",
+          "start": 11,
+          "end": 18,
+          "confidence": 0.25658494234085083,
+          "topicId": 963152,
+          "sentenceId": 0
+        }
+      ],
+      "4599312": [
+        {
+          "originalText": "immigrants",
+          "start": 0,
+          "end": 10,
+          "confidence": 0.21303948760032654,
+          "topicId": 4599312,
+          "sentenceId": 0
+        }
+      ],
+      "28022": [
+        {
+          "originalText": "school",
+          "start": 19,
+          "end": 25,
+          "confidence": 0.10903401672840118,
+          "topicId": 28022,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "681": {
+    "docId": "681",
+    "entityMap": {
+      "17516": [
+        {
+          "originalText": "location",
+          "start": 11,
+          "end": 19,
+          "confidence": 0.1289028525352478,
+          "topicId": 17516,
+          "sentenceId": 0
+        }
+      ],
+      "277289": [
+        {
+          "originalText": "wind power",
+          "start": 0,
+          "end": 10,
+          "confidence": 0.3535820245742798,
+          "topicId": 277289,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "678": {
+    "docId": "678",
+    "entityMap": {
+      "2334023": [
+        {
+          "originalText": "impact",
+          "start": 14,
+          "end": 20,
+          "confidence": 0.0034427118953317404,
+          "topicId": 2334023,
+          "sentenceId": 0
+        }
+      ],
+      "33625777": [
+        {
+          "originalText": "joint custody",
+          "start": 0,
+          "end": 13,
+          "confidence": 0.1510416716337204,
+          "topicId": 33625777,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "677": {
+    "docId": "677",
+    "entityMap": {
+      "46889": [
+        {
+          "originalText": "Leaning Tower of Pisa",
+          "start": 0,
+          "end": 21,
+          "confidence": 0.5,
+          "topicId": 46889,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "676": {
+    "docId": "676",
+    "entityMap": {
+      "11984": [
+        {
+          "originalText": "cultivation",
+          "start": 6,
+          "end": 17,
+          "confidence": 0.22752466797828674,
+          "topicId": 11984,
+          "sentenceId": 0
+        }
+      ],
+      "161758": [
+        {
+          "originalText": "poppy",
+          "start": 0,
+          "end": 5,
+          "confidence": 0.27467262744903564,
+          "topicId": 161758,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "675": {
+    "docId": "675",
+    "entityMap": {
+      "22425760": [
+        {
+          "originalText": "swimming",
+          "start": 18,
+          "end": 26,
+          "confidence": 0.27580320835113525,
+          "topicId": 22425760,
+          "sentenceId": 0
+        }
+      ],
+      "22576": [
+        {
+          "originalText": "Olympics",
+          "start": 0,
+          "end": 8,
+          "confidence": 0.17818020284175873,
+          "topicId": 22576,
+          "sentenceId": 0
+        }
+      ],
+      "1742971": [
+        {
+          "originalText": "training",
+          "start": 9,
+          "end": 17,
+          "confidence": 0.11454751342535019,
+          "topicId": 1742971,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "674": {
+    "docId": "674",
+    "entityMap": {
+      "440936": [
+        {
+          "originalText": "prosecuted",
+          "start": 11,
+          "end": 21,
+          "confidence": 0.11337840557098389,
+          "topicId": 440936,
+          "sentenceId": 0
+        }
+      ],
+      "12233": [
+        {
+          "originalText": "Greenpeace",
+          "start": 0,
+          "end": 10,
+          "confidence": 0.568265438079834,
+          "topicId": 12233,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "673": {
+    "docId": "673",
+    "entityMap": {
+      "19666611": [
+        {
+          "originalText": "Afghanistan",
+          "start": 18,
+          "end": 29,
+          "confidence": 0.7226285338401794,
+          "topicId": 19666611,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "672": {
+    "docId": "672",
+    "entityMap": {
+      "28923": [
+        {
+          "originalText": "membership",
+          "start": 4,
+          "end": 14,
+          "confidence": 0.08983811736106873,
+          "topicId": 28923,
+          "sentenceId": 0
+        }
+      ],
+      "70101": [
+        {
+          "originalText": "NRA",
+          "start": 0,
+          "end": 3,
+          "confidence": 0.19189321994781494,
+          "topicId": 70101,
+          "sentenceId": 0
+        }
+      ],
+      "46530": [
+        {
+          "originalText": "profile",
+          "start": 15,
+          "end": 22,
+          "confidence": 0.0017188136698678136,
+          "topicId": 46530,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "671": {
+    "docId": "671",
+    "entityMap": {
+      "2945494": [
+        {
+          "originalText": "benefits",
+          "start": 15,
+          "end": 23,
+          "confidence": 0.19751207530498505,
+          "topicId": 2945494,
+          "sentenceId": 0
+        }
+      ],
+      "88801": [
+        {
+          "originalText": "Salvation Army",
+          "start": 0,
+          "end": 14,
+          "confidence": 0.603174090385437,
+          "topicId": 88801,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "679": {
+    "docId": "679",
+    "entityMap": {
+      "35937111": [
+        {
+          "originalText": "opening",
+          "start": 0,
+          "end": 7,
+          "confidence": 0.1040913537144661,
+          "topicId": 35937111,
+          "sentenceId": 0
+        }
+      ],
+      "38534": [
+        {
+          "originalText": "adoption",
+          "start": 8,
+          "end": 16,
+          "confidence": 0.221225306391716,
+          "topicId": 38534,
+          "sentenceId": 0
+        }
+      ],
+      "161228": [
+        {
+          "originalText": "records",
+          "start": 17,
+          "end": 24,
+          "confidence": 0.10127829760313034,
+          "topicId": 161228,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "670": {
+    "docId": "670",
+    "entityMap": {
+      "924170": [
+        {
+          "originalText": "U.S. elections",
+          "start": 0,
+          "end": 12,
+          "confidence": 0.05161290243268013,
+          "topicId": 924170,
+          "sentenceId": 0
+        }
+      ],
+      "341658": [
+        {
+          "originalText": "apathy",
+          "start": 13,
+          "end": 19,
+          "confidence": 0.09371108561754227,
+          "topicId": 341658,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "696": {
+    "docId": "696",
+    "entityMap": {
+      "252712": [
+        {
+          "originalText": "safety",
+          "start": 0,
+          "end": 6,
+          "confidence": 0.17352911829948425,
+          "topicId": 252712,
+          "sentenceId": 0
+        }
+      ],
+      "42048": [
+        {
+          "originalText": "plastic surgery",
+          "start": 7,
+          "end": 22,
+          "confidence": 0.34627625346183777,
+          "topicId": 42048,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "695": {
+    "docId": "695",
+    "entityMap": {
+      "870351": [
+        {
+          "originalText": "sentence",
+          "start": 19,
+          "end": 27,
+          "confidence": 0.31411978602409363,
+          "topicId": 870351,
+          "sentenceId": 0
+        }
+      ],
+      "264782": [
+        {
+          "originalText": "white collar crime",
+          "start": 0,
+          "end": 18,
+          "confidence": 0.691326916217804,
+          "topicId": 264782,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "694": {
+    "docId": "694",
+    "entityMap": {
+      "5966": [
+        {
+          "originalText": "compost",
+          "start": 0,
+          "end": 7,
+          "confidence": 0.694760799407959,
+          "topicId": 5966,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "391": {
+    "docId": "391",
+    "entityMap": {
+      "180121": [
+        {
+          "originalText": "drug",
+          "start": 4,
+          "end": 8,
+          "confidence": 0.16623589396476746,
+          "topicId": 180121,
+          "sentenceId": 0
+        }
+      ],
+      "211295": [
+        {
+          "originalText": "prices",
+          "start": 9,
+          "end": 15,
+          "confidence": 0.11364071816205978,
+          "topicId": 211295,
+          "sentenceId": 0
+        }
+      ],
+      "254769": [
+        {
+          "originalText": "R\u0026D",
+          "start": 0,
+          "end": 3,
+          "confidence": 0.23335841298103333,
+          "topicId": 254769,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "693": {
+    "docId": "693",
+    "entityMap": {
+      "22112840": [
+        {
+          "originalText": "newspapers",
+          "start": 0,
+          "end": 10,
+          "confidence": 0.1533673256635666,
+          "topicId": 22112840,
+          "sentenceId": 0
+        }
+      ],
+      "1957258": [
+        {
+          "originalText": "electronic media",
+          "start": 11,
+          "end": 27,
+          "confidence": 0.21340273320674896,
+          "topicId": 1957258,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "390": {
+    "docId": "390",
+    "entityMap": {
+      "395889": [
+        {
+          "originalText": "orphan drugs",
+          "start": 0,
+          "end": 12,
+          "confidence": 0.24074074625968933,
+          "topicId": 395889,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "393": {
+    "docId": "393",
+    "entityMap": {
+      "10477944": [
+        {
+          "originalText": "mercy killing",
+          "start": 0,
+          "end": 13,
+          "confidence": 0.18506494164466858,
+          "topicId": 10477944,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "699": {
+    "docId": "699",
+    "entityMap": {
+      "505825": [
+        {
+          "originalText": "term limits",
+          "start": 0,
+          "end": 11,
+          "confidence": 0.12373417615890503,
+          "topicId": 505825,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "392": {
+    "docId": "392",
+    "entityMap": {
+      "20903754": [
+        {
+          "originalText": "robotics",
+          "start": 0,
+          "end": 8,
+          "confidence": 0.1201372966170311,
+          "topicId": 20903754,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "698": {
+    "docId": "698",
+    "entityMap": {
+      "332372": [
+        {
+          "originalText": "rates",
+          "start": 9,
+          "end": 14,
+          "confidence": 0.036777377128601074,
+          "topicId": 332372,
+          "sentenceId": 0
+        }
+      ],
+      "18456": [
+        {
+          "originalText": "literacy",
+          "start": 0,
+          "end": 8,
+          "confidence": 0.09958212077617645,
+          "topicId": 18456,
+          "sentenceId": 0
+        }
+      ],
+      "5334607": [
+        {
+          "originalText": "Africa",
+          "start": 15,
+          "end": 21,
+          "confidence": 0.1815595030784607,
+          "topicId": 5334607,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "395": {
+    "docId": "395",
+    "entityMap": {
+      "29789": [
+        {
+          "originalText": "tourism",
+          "start": 0,
+          "end": 7,
+          "confidence": 0.05173299461603165,
+          "topicId": 29789,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "697": {
+    "docId": "697",
+    "entityMap": {
+      "242294": [
+        {
+          "originalText": "air traffic controller",
+          "start": 0,
+          "end": 22,
+          "confidence": 0.375342458486557,
+          "topicId": 242294,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "394": {
+    "docId": "394",
+    "entityMap": {
+      "13603": [
+        {
+          "originalText": "home schooling",
+          "start": 0,
+          "end": 14,
+          "confidence": 0.125,
+          "topicId": 13603,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "396": {
+    "docId": "396",
+    "entityMap": {
+      "404088": [
+        {
+          "originalText": "sick building syndrome",
+          "start": 0,
+          "end": 22,
+          "confidence": 0.5,
+          "topicId": 404088,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "397": {
+    "docId": "397",
+    "entityMap": {
+      "1183732": [
+        {
+          "originalText": "automobile",
+          "start": 0,
+          "end": 10,
+          "confidence": 0.3767833411693573,
+          "topicId": 1183732,
+          "sentenceId": 0
+        }
+      ],
+      "892586": [
+        {
+          "originalText": "recalls",
+          "start": 11,
+          "end": 18,
+          "confidence": 0.29115673899650574,
+          "topicId": 892586,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "398": {
+    "docId": "398",
+    "entityMap": {
+      "40350050": [
+        {
+          "originalText": "dismantling",
+          "start": 0,
+          "end": 11,
+          "confidence": 0.0018389113247394562,
+          "topicId": 40350050,
+          "sentenceId": 0
+        }
+      ],
+      "191130": [
+        {
+          "originalText": "arsenal",
+          "start": 21,
+          "end": 28,
+          "confidence": 0.29320573806762695,
+          "topicId": 191130,
+          "sentenceId": 0
+        }
+      ],
+      "9239": [
+        {
+          "originalText": "Europe",
+          "start": 12,
+          "end": 18,
+          "confidence": 0.14466091990470886,
+          "topicId": 9239,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "399": {
+    "docId": "399",
+    "entityMap": {
+      "1540172": [
+        {
+          "originalText": "oceanographic vessels",
+          "start": 0,
+          "end": 21,
+          "confidence": 0.20000000298023224,
+          "topicId": 1540172,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "691": {
+    "docId": "691",
+    "entityMap": {
+      "11090": [
+        {
+          "originalText": "forests",
+          "start": 13,
+          "end": 20,
+          "confidence": 0.2981434464454651,
+          "topicId": 11090,
+          "sentenceId": 0
+        }
+      ],
+      "1091638": [
+        {
+          "originalText": "clear-cutting",
+          "start": 0,
+          "end": 12,
+          "confidence": 0.5449090600013733,
+          "topicId": 1091638,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "692": {
+    "docId": "692",
+    "entityMap": {
+      "1463215": [
+        {
+          "originalText": "detection",
+          "start": 16,
+          "end": 25,
+          "confidence": 0.10030679404735565,
+          "topicId": 1463215,
+          "sentenceId": 0
+        }
+      ],
+      "88078": [
+        {
+          "originalText": "prostate cancer",
+          "start": 0,
+          "end": 15,
+          "confidence": 0.547654390335083,
+          "topicId": 88078,
+          "sentenceId": 0
+        }
+      ],
+      "13311819": [
+        {
+          "originalText": "treatment",
+          "start": 26,
+          "end": 35,
+          "confidence": 0.12312714755535126,
+          "topicId": 13311819,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "690": {
+    "docId": "690",
+    "entityMap": {
+      "14423": [
+        {
+          "originalText": "college education",
+          "start": 0,
+          "end": 17,
+          "confidence": 0.21404904127120972,
+          "topicId": 14423,
+          "sentenceId": 0
+        }
+      ],
+      "10568": [
+        {
+          "originalText": "advantage",
+          "start": 18,
+          "end": 27,
+          "confidence": 0.019064486026763916,
+          "topicId": 10568,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "646": {
+    "docId": "646",
+    "entityMap": {
+      "659087": [
+        {
+          "originalText": "food stamps",
+          "start": 0,
+          "end": 11,
+          "confidence": 0.16477273404598236,
+          "topicId": 659087,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "647": {
+    "docId": "647",
+    "entityMap": {
+      "9550": [
+        {
+          "originalText": "electricity",
+          "start": 9,
+          "end": 20,
+          "confidence": 0.25288689136505127,
+          "topicId": 9550,
+          "sentenceId": 0
+        }
+      ],
+      "43490": [
+        {
+          "originalText": "windmill",
+          "start": 0,
+          "end": 8,
+          "confidence": 0.3640226125717163,
+          "topicId": 43490,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "648": {
+    "docId": "648",
+    "entityMap": {
+      "665986": [
+        {
+          "originalText": "family leave",
+          "start": 0,
+          "end": 12,
+          "confidence": 0.1982736885547638,
+          "topicId": 665986,
+          "sentenceId": 0
+        }
+      ],
+      "18949668": [
+        {
+          "originalText": "law",
+          "start": 13,
+          "end": 16,
+          "confidence": 0.1729974001646042,
+          "topicId": 18949668,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "649": {
+    "docId": "649",
+    "entityMap": {
+      "18994196": [
+        {
+          "originalText": "computer viruses",
+          "start": 0,
+          "end": 16,
+          "confidence": 0.08695652335882187,
+          "topicId": 18994196,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "383": {
+    "docId": "383",
+    "entityMap": {
+      "33632441": [
+        {
+          "originalText": "drugs",
+          "start": 15,
+          "end": 20,
+          "confidence": 0.3699166774749756,
+          "topicId": 33632441,
+          "sentenceId": 0
+        }
+      ],
+      "19356": [
+        {
+          "originalText": "mental illness",
+          "start": 0,
+          "end": 14,
+          "confidence": 0.48439478874206543,
+          "topicId": 19356,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "642": {
+    "docId": "642",
+    "entityMap": {
+      "44534": [
+        {
+          "originalText": "Tiananmen Square protesters",
+          "start": 0,
+          "end": 27,
+          "confidence": 0.30000001192092896,
+          "topicId": 44534,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "643": {
+    "docId": "643",
+    "entityMap": {
+      "51518": [
+        {
+          "originalText": "dams",
+          "start": 7,
+          "end": 11,
+          "confidence": 0.19796064496040344,
+          "topicId": 51518,
+          "sentenceId": 0
+        }
+      ],
+      "36984": [
+        {
+          "originalText": "salmon",
+          "start": 0,
+          "end": 6,
+          "confidence": 0.3810954689979553,
+          "topicId": 36984,
+          "sentenceId": 0
+        }
+      ],
+      "78147": [
+        {
+          "originalText": "Pacific northwest",
+          "start": 12,
+          "end": 29,
+          "confidence": 0.43312162160873413,
+          "topicId": 78147,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "384": {
+    "docId": "384",
+    "entityMap": {
+      "19331": [
+        {
+          "originalText": "moon",
+          "start": 14,
+          "end": 18,
+          "confidence": 0.3328206539154053,
+          "topicId": 19331,
+          "sentenceId": 0
+        }
+      ],
+      "50896": [
+        {
+          "originalText": "space station",
+          "start": 0,
+          "end": 13,
+          "confidence": 0.36795806884765625,
+          "topicId": 50896,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "644": {
+    "docId": "644",
+    "entityMap": {
+      "11039790": [
+        {
+          "originalText": "animals",
+          "start": 7,
+          "end": 14,
+          "confidence": 0.0828285664319992,
+          "topicId": 11039790,
+          "sentenceId": 0
+        }
+      ],
+      "394815": [
+        {
+          "originalText": "exotic",
+          "start": 0,
+          "end": 6,
+          "confidence": 0.23615384101867676,
+          "topicId": 394815,
+          "sentenceId": 0
+        }
+      ],
+      "7515651": [
+        {
+          "originalText": "import",
+          "start": 15,
+          "end": 21,
+          "confidence": 0.07063329219818115,
+          "topicId": 7515651,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "381": {
+    "docId": "381",
+    "entityMap": {
+      "1845": [
+        {
+          "originalText": "alternative medicine",
+          "start": 0,
+          "end": 20,
+          "confidence": 0.3396226465702057,
+          "topicId": 1845,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "645": {
+    "docId": "645",
+    "entityMap": {
+      "18948365": [
+        {
+          "originalText": "software piracy",
+          "start": 0,
+          "end": 15,
+          "confidence": 0.3244274854660034,
+          "topicId": 18948365,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "382": {
+    "docId": "382",
+    "entityMap": {
+      "13673345": [
+        {
+          "originalText": "automobiles",
+          "start": 14,
+          "end": 25,
+          "confidence": 0.3082214295864105,
+          "topicId": 13673345,
+          "sentenceId": 0
+        }
+      ],
+      "188545": [
+        {
+          "originalText": "hydrogen",
+          "start": 0,
+          "end": 8,
+          "confidence": 0.5561655163764954,
+          "topicId": 188545,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "380": {
+    "docId": "380",
+    "entityMap": {
+      "56435": [
+        {
+          "originalText": "obesity",
+          "start": 0,
+          "end": 7,
+          "confidence": 0.46781355142593384,
+          "topicId": 56435,
+          "sentenceId": 0
+        }
+      ],
+      "13311819": [
+        {
+          "originalText": "medical treatment",
+          "start": 8,
+          "end": 25,
+          "confidence": 0.2489989846944809,
+          "topicId": 13311819,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "640": {
+    "docId": "640",
+    "entityMap": {
+      "665986": [
+        {
+          "originalText": "maternity leave",
+          "start": 0,
+          "end": 15,
+          "confidence": 0.3725055754184723,
+          "topicId": 665986,
+          "sentenceId": 0
+        }
+      ],
+      "669856": [
+        {
+          "originalText": "policies",
+          "start": 16,
+          "end": 24,
+          "confidence": 0.2609714865684509,
+          "topicId": 669856,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "641": {
+    "docId": "641",
+    "entityMap": {
+      "144219": [
+        {
+          "originalText": "wildlife",
+          "start": 7,
+          "end": 15,
+          "confidence": 0.1692141741514206,
+          "topicId": 144219,
+          "sentenceId": 0
+        }
+      ],
+      "189482": [
+        {
+          "originalText": "Valdez",
+          "start": 0,
+          "end": 6,
+          "confidence": 0.18841931223869324,
+          "topicId": 189482,
+          "sentenceId": 0
+        }
+      ],
+      "20021": [
+        {
+          "originalText": "marine",
+          "start": 16,
+          "end": 22,
+          "confidence": 0.3884953260421753,
+          "topicId": 20021,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "389": {
+    "docId": "389",
+    "entityMap": {
+      "315952": [
+        {
+          "originalText": "technology transfer",
+          "start": 8,
+          "end": 27,
+          "confidence": 0.281454473733902,
+          "topicId": 315952,
+          "sentenceId": 0
+        }
+      ],
+      "18949668": [
+        {
+          "originalText": "illegal",
+          "start": 0,
+          "end": 7,
+          "confidence": 0.1835491806268692,
+          "topicId": 18949668,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "388": {
+    "docId": "388",
+    "entityMap": {
+      "3877892": [
+        {
+          "originalText": "enhancement",
+          "start": 13,
+          "end": 24,
+          "confidence": 5.911163752898574E-4,
+          "topicId": 3877892,
+          "sentenceId": 0
+        }
+      ],
+      "37738": [
+        {
+          "originalText": "soil",
+          "start": 8,
+          "end": 12,
+          "confidence": 0.2847191095352173,
+          "topicId": 37738,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "387": {
+    "docId": "387",
+    "entityMap": {
+      "37257": [
+        {
+          "originalText": "radioactive waste",
+          "start": 0,
+          "end": 17,
+          "confidence": 0.2683658301830292,
+          "topicId": 37257,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "386": {
+    "docId": "386",
+    "entityMap": {
+      "128987": [
+        {
+          "originalText": "children",
+          "start": 18,
+          "end": 26,
+          "confidence": 0.25910747051239014,
+          "topicId": 128987,
+          "sentenceId": 0
+        }
+      ],
+      "56285": [
+        {
+          "originalText": "disabled",
+          "start": 9,
+          "end": 17,
+          "confidence": 0.25582119822502136,
+          "topicId": 56285,
+          "sentenceId": 0
+        }
+      ],
+      "9252": [
+        {
+          "originalText": "teaching",
+          "start": 0,
+          "end": 8,
+          "confidence": 0.2322934865951538,
+          "topicId": 9252,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "385": {
+    "docId": "385",
+    "entityMap": {
+      "13673345": [
+        {
+          "originalText": "cars",
+          "start": 12,
+          "end": 16,
+          "confidence": 0.29106441140174866,
+          "topicId": 13673345,
+          "sentenceId": 0
+        }
+      ],
+      "21188370": [
+        {
+          "originalText": "fuel",
+          "start": 7,
+          "end": 11,
+          "confidence": 0.2918097972869873,
+          "topicId": 21188370,
+          "sentenceId": 0
+        }
+      ],
+      "157736": [
+        {
+          "originalText": "hybrid",
+          "start": 0,
+          "end": 6,
+          "confidence": 0.3735077977180481,
+          "topicId": 157736,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "639": {
+    "docId": "639",
+    "entityMap": {
+      "1118379": [
+        {
+          "originalText": "on-line shopping",
+          "start": 9,
+          "end": 24,
+          "confidence": 0.4791235625743866,
+          "topicId": 1118379,
+          "sentenceId": 0
+        }
+      ],
+      "7818": [
+        {
+          "originalText": "consumer",
+          "start": 0,
+          "end": 8,
+          "confidence": 0.28112488985061646,
+          "topicId": 7818,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "637": {
+    "docId": "637",
+    "entityMap": {
+      "173072": [
+        {
+          "originalText": "human growth hormone",
+          "start": 0,
+          "end": 20,
+          "confidence": 0.8877550959587097,
+          "topicId": 173072,
+          "sentenceId": 0
+        },
+        {
+          "originalText": "HGH",
+          "start": 21,
+          "end": 24,
+          "confidence": 0.6543624401092529,
+          "topicId": 173072,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "638": {
+    "docId": "638",
+    "entityMap": {
+      "1080015": [
+        {
+          "originalText": "wrongful convictions",
+          "start": 0,
+          "end": 20,
+          "confidence": 0.012690355069935322,
+          "topicId": 1080015,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "635": {
+    "docId": "635",
+    "entityMap": {
+      "428966": [
+        {
+          "originalText": "doctor",
+          "start": 0,
+          "end": 6,
+          "confidence": 0.13398611545562744,
+          "topicId": 428966,
+          "sentenceId": 0
+        }
+      ],
+      "162615": [
+        {
+          "originalText": "assisted",
+          "start": 7,
+          "end": 15,
+          "confidence": 0.21930362284183502,
+          "topicId": 162615,
+          "sentenceId": 0
+        }
+      ],
+      "16831059": [
+        {
+          "originalText": "suicides",
+          "start": 16,
+          "end": 24,
+          "confidence": 0.24211353063583374,
+          "topicId": 16831059,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "636": {
+    "docId": "636",
+    "entityMap": {
+      "960403": [
+        {
+          "originalText": "exemptions",
+          "start": 10,
+          "end": 20,
+          "confidence": 0.15554966032505035,
+          "topicId": 960403,
+          "sentenceId": 0
+        }
+      ],
+      "44720": [
+        {
+          "originalText": "jury duty",
+          "start": 0,
+          "end": 9,
+          "confidence": 0.4006351828575134,
+          "topicId": 44720,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "370": {
+    "docId": "370",
+    "entityMap": {
+      "51036": [
+        {
+          "originalText": "drug laws",
+          "start": 5,
+          "end": 14,
+          "confidence": 0.1860877126455307,
+          "topicId": 51036,
+          "sentenceId": 0
+        }
+      ],
+      "10646": [
+        {
+          "originalText": "food",
+          "start": 0,
+          "end": 4,
+          "confidence": 0.15902462601661682,
+          "topicId": 10646,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "633": {
+    "docId": "633",
+    "entityMap": {
+      "31255115": [
+        {
+          "originalText": "devolution",
+          "start": 6,
+          "end": 16,
+          "confidence": 0.5333397388458252,
+          "topicId": 31255115,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "371": {
+    "docId": "371",
+    "entityMap": {
+      "490201": [
+        {
+          "originalText": "health insurance",
+          "start": 0,
+          "end": 16,
+          "confidence": 0.2973182201385498,
+          "topicId": 490201,
+          "sentenceId": 0
+        }
+      ],
+      "337667": [
+        {
+          "originalText": "holistic",
+          "start": 17,
+          "end": 25,
+          "confidence": 0.24109256267547607,
+          "topicId": 337667,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "634": {
+    "docId": "634",
+    "entityMap": {
+      "58358": [
+        {
+          "originalText": "L-tryptophan",
+          "start": 0,
+          "end": 11,
+          "confidence": 0.474533349275589,
+          "topicId": 58358,
+          "sentenceId": 0
+        }
+      ],
+      "8221": [
+        {
+          "originalText": "deaths",
+          "start": 12,
+          "end": 18,
+          "confidence": 0.14215733110904694,
+          "topicId": 8221,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "372": {
+    "docId": "372",
+    "entityMap": {
+      "21217": [
+        {
+          "originalText": "Native American",
+          "start": 0,
+          "end": 15,
+          "confidence": 0.7418180704116821,
+          "topicId": 21217,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "631": {
+    "docId": "631",
+    "entityMap": {
+      "21492751": [
+        {
+          "originalText": "Mandela",
+          "start": 0,
+          "end": 7,
+          "confidence": 0.23097270727157593,
+          "topicId": 21492751,
+          "sentenceId": 0
+        }
+      ],
+      "24356889": [
+        {
+          "originalText": "President",
+          "start": 21,
+          "end": 30,
+          "confidence": 0.1900620460510254,
+          "topicId": 24356889,
+          "sentenceId": 0
+        }
+      ],
+      "17416221": [
+        {
+          "originalText": "South Africa",
+          "start": 8,
+          "end": 20,
+          "confidence": 0.5173471570014954,
+          "topicId": 17416221,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "373": {
+    "docId": "373",
+    "entityMap": {
+      "18934432": [
+        {
+          "originalText": "encryption",
+          "start": 0,
+          "end": 10,
+          "confidence": 0.26272207498550415,
+          "topicId": 18934432,
+          "sentenceId": 0
+        }
+      ],
+      "51462": [
+        {
+          "originalText": "equipment",
+          "start": 11,
+          "end": 20,
+          "confidence": 0.21294815838336945,
+          "topicId": 51462,
+          "sentenceId": 0
+        }
+      ],
+      "307592": [
+        {
+          "originalText": "export",
+          "start": 21,
+          "end": 27,
+          "confidence": 0.16485276818275452,
+          "topicId": 307592,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "632": {
+    "docId": "632",
+    "entityMap": {
+      "30042": [
+        {
+          "originalText": "tin",
+          "start": 15,
+          "end": 18,
+          "confidence": 0.28863680362701416,
+          "topicId": 30042,
+          "sentenceId": 0
+        }
+      ],
+      "28741": [
+        {
+          "originalText": "southeast Asia",
+          "start": 0,
+          "end": 14,
+          "confidence": 0.3846893310546875,
+          "topicId": 28741,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "630": {
+    "docId": "630",
+    "entityMap": {
+      "23475629": [
+        {
+          "originalText": "Gulf War Syndrome",
+          "start": 0,
+          "end": 17,
+          "confidence": 0.5,
+          "topicId": 23475629,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "379": {
+    "docId": "379",
+    "entityMap": {
+      "3614746": [
+        {
+          "originalText": "mainstreaming",
+          "start": 0,
+          "end": 13,
+          "confidence": 0.027863776311278343,
+          "topicId": 3614746,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "378": {
+    "docId": "378",
+    "entityMap": {
+      "9472": [
+        {
+          "originalText": "euro",
+          "start": 0,
+          "end": 4,
+          "confidence": 0.23125258088111877,
+          "topicId": 9472,
+          "sentenceId": 0
+        }
+      ],
+      "3379016": [
+        {
+          "originalText": "opposition",
+          "start": 5,
+          "end": 15,
+          "confidence": 0.14725495874881744,
+          "topicId": 3379016,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "375": {
+    "docId": "375",
+    "entityMap": {
+      "188545": [
+        {
+          "originalText": "hydrogen",
+          "start": 0,
+          "end": 8,
+          "confidence": 0.49241554737091064,
+          "topicId": 188545,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "374": {
+    "docId": "374",
+    "entityMap": {
+      "52497": [
+        {
+          "originalText": "Nobel prize",
+          "start": 0,
+          "end": 11,
+          "confidence": 0.4609156548976898,
+          "topicId": 52497,
+          "sentenceId": 0
+        }
+      ],
+      "8053459": [
+        {
+          "originalText": "winners",
+          "start": 12,
+          "end": 19,
+          "confidence": 0.12810319662094116,
+          "topicId": 8053459,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "377": {
+    "docId": "377",
+    "entityMap": {
+      "38323": [
+        {
+          "originalText": "cigar",
+          "start": 0,
+          "end": 5,
+          "confidence": 0.41409802436828613,
+          "topicId": 38323,
+          "sentenceId": 0
+        }
+      ],
+      "12254052": [
+        {
+          "originalText": "smoking",
+          "start": 6,
+          "end": 13,
+          "confidence": 0.3435308635234833,
+          "topicId": 12254052,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "376": {
+    "docId": "376",
+    "entityMap": {
+      "14918": [
+        {
+          "originalText": "World Court",
+          "start": 0,
+          "end": 11,
+          "confidence": 0.2344827651977539,
+          "topicId": 14918,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "668": {
+    "docId": "668",
+    "entityMap": {
+      "4637216": [
+        {
+          "originalText": "poverty, disease",
+          "start": 0,
+          "end": 15,
+          "confidence": 0.28173452615737915,
+          "topicId": 4637216,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "669": {
+    "docId": "669",
+    "entityMap": {
+      "347268": [
+        {
+          "originalText": "Islamic Revolution",
+          "start": 0,
+          "end": 18,
+          "confidence": 0.2258426994085312,
+          "topicId": 347268,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "660": {
+    "docId": "660",
+    "entityMap": {
+      "5407": [
+        {
+          "originalText": "California",
+          "start": 15,
+          "end": 25,
+          "confidence": 0.24297305941581726,
+          "topicId": 5407,
+          "sentenceId": 0
+        }
+      ],
+      "300591": [
+        {
+          "originalText": "whale watching",
+          "start": 0,
+          "end": 14,
+          "confidence": 0.3485117554664612,
+          "topicId": 300591,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "661": {
+    "docId": "661",
+    "entityMap": {
+      "716631": [
+        {
+          "originalText": "melanoma",
+          "start": 0,
+          "end": 8,
+          "confidence": 0.6399597525596619,
+          "topicId": 716631,
+          "sentenceId": 0
+        }
+      ],
+      "7172": [
+        {
+          "originalText": "treatment",
+          "start": 9,
+          "end": 18,
+          "confidence": 0.29567715525627136,
+          "topicId": 7172,
+          "sentenceId": 0
+        }
+      ],
+      "10055": [
+        {
+          "originalText": "causes",
+          "start": 19,
+          "end": 25,
+          "confidence": 0.24496296048164368,
+          "topicId": 10055,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "662": {
+    "docId": "662",
+    "entityMap": {
+      "162180": [
+        {
+          "originalText": "telemarketer",
+          "start": 0,
+          "end": 12,
+          "confidence": 0.46234211325645447,
+          "topicId": 162180,
+          "sentenceId": 0
+        }
+      ],
+      "18576029": [
+        {
+          "originalText": "protection",
+          "start": 13,
+          "end": 23,
+          "confidence": 0.22755369544029236,
+          "topicId": 18576029,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "663": {
+    "docId": "663",
+    "entityMap": {
+      "202522": [
+        {
+          "originalText": "exposure",
+          "start": 13,
+          "end": 21,
+          "confidence": 0.2248517870903015,
+          "topicId": 202522,
+          "sentenceId": 0
+        }
+      ],
+      "2547": [
+        {
+          "originalText": "Agent Orange",
+          "start": 0,
+          "end": 12,
+          "confidence": 0.6990504264831543,
+          "topicId": 2547,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "664": {
+    "docId": "664",
+    "entityMap": {
+      "738406": [
+        {
+          "originalText": "Indian Museum",
+          "start": 9,
+          "end": 22,
+          "confidence": 0.1666666716337204,
+          "topicId": 738406,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "361": {
+    "docId": "361",
+    "entityMap": {
+      "102075": [
+        {
+          "originalText": "sweatshops",
+          "start": 9,
+          "end": 19,
+          "confidence": 0.330597847700119,
+          "topicId": 102075,
+          "sentenceId": 0
+        }
+      ],
+      "38180": [
+        {
+          "originalText": "clothing",
+          "start": 0,
+          "end": 8,
+          "confidence": 0.25558292865753174,
+          "topicId": 38180,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "665": {
+    "docId": "665",
+    "entityMap": {
+      "27067": [
+        {
+          "originalText": "sub-Sahara",
+          "start": 15,
+          "end": 24,
+          "confidence": 0.7034403085708618,
+          "topicId": 27067,
+          "sentenceId": 0
+        }
+      ],
+      "1952402": [
+        {
+          "originalText": "poverty Africa",
+          "start": 0,
+          "end": 14,
+          "confidence": 0.48617982864379883,
+          "topicId": 1952402,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "362": {
+    "docId": "362",
+    "entityMap": {
+      "68714": [
+        {
+          "originalText": "human smuggling",
+          "start": 0,
+          "end": 15,
+          "confidence": 0.10759493708610535,
+          "topicId": 68714,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "666": {
+    "docId": "666",
+    "entityMap": {
+      "52382": [
+        {
+          "originalText": "resignation",
+          "start": 9,
+          "end": 20,
+          "confidence": 0.11418713629245758,
+          "topicId": 52382,
+          "sentenceId": 0
+        }
+      ],
+      "26209318": [
+        {
+          "originalText": "impact",
+          "start": 21,
+          "end": 27,
+          "confidence": 0.0936427116394043,
+          "topicId": 26209318,
+          "sentenceId": 0
+        }
+      ],
+      "19831": [
+        {
+          "originalText": "Thatcher",
+          "start": 0,
+          "end": 8,
+          "confidence": 0.23550313711166382,
+          "topicId": 19831,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "667": {
+    "docId": "667",
+    "entityMap": {
+      "725893": [
+        {
+          "originalText": "households",
+          "start": 17,
+          "end": 27,
+          "confidence": 7.49471946619451E-4,
+          "topicId": 725893,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "360": {
+    "docId": "360",
+    "entityMap": {
+      "13803076": [
+        {
+          "originalText": "drug legalization",
+          "start": 0,
+          "end": 17,
+          "confidence": 0.3259676396846771,
+          "topicId": 13803076,
+          "sentenceId": 0
+        }
+      ],
+      "247817": [
+        {
+          "originalText": "benefits",
+          "start": 18,
+          "end": 26,
+          "confidence": 0.15826207399368286,
+          "topicId": 247817,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "366": {
+    "docId": "366",
+    "entityMap": {
+      "1028691": [
+        {
+          "originalText": "commercial",
+          "start": 0,
+          "end": 10,
+          "confidence": 0.15837368369102478,
+          "topicId": 1028691,
+          "sentenceId": 0
+        }
+      ],
+      "5910": [
+        {
+          "originalText": "cyanide",
+          "start": 11,
+          "end": 18,
+          "confidence": 0.36444491147994995,
+          "topicId": 5910,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "365": {
+    "docId": "365",
+    "entityMap": {
+      "10531": [
+        {
+          "originalText": "El Nino",
+          "start": 0,
+          "end": 7,
+          "confidence": 0.3201407194137573,
+          "topicId": 10531,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "364": {
+    "docId": "364",
+    "entityMap": {
+      "16946852": [
+        {
+          "originalText": "rabies",
+          "start": 0,
+          "end": 6,
+          "confidence": 0.36191025376319885,
+          "topicId": 16946852,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "363": {
+    "docId": "363",
+    "entityMap": {
+      "172243": [
+        {
+          "originalText": "tunnel",
+          "start": 15,
+          "end": 21,
+          "confidence": 0.09620551764965057,
+          "topicId": 172243,
+          "sentenceId": 0
+        }
+      ],
+      "8137": [
+        {
+          "originalText": "disasters",
+          "start": 22,
+          "end": 31,
+          "confidence": 0.0870664119720459,
+          "topicId": 8137,
+          "sentenceId": 0
+        }
+      ],
+      "18580879": [
+        {
+          "originalText": "transportation",
+          "start": 0,
+          "end": 14,
+          "confidence": 0.1826908141374588,
+          "topicId": 18580879,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "369": {
+    "docId": "369",
+    "entityMap": {
+      "168536": [
+        {
+          "originalText": "bulimia",
+          "start": 17,
+          "end": 24,
+          "confidence": 0.7308740615844727,
+          "topicId": 168536,
+          "sentenceId": 0
+        }
+      ],
+      "26534334": [
+        {
+          "originalText": "anorexia nervosa",
+          "start": 0,
+          "end": 16,
+          "confidence": 0.9549000263214111,
+          "topicId": 26534334,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "368": {
+    "docId": "368",
+    "entityMap": {
+      "57880": [
+        {
+          "originalText": "in vitro fertilization",
+          "start": 0,
+          "end": 22,
+          "confidence": 0.4231678545475006,
+          "topicId": 57880,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "367": {
+    "docId": "367",
+    "entityMap": {
+      "50715": [
+        {
+          "originalText": "piracy",
+          "start": 0,
+          "end": 6,
+          "confidence": 0.10102821886539459,
+          "topicId": 50715,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "659": {
+    "docId": "659",
+    "entityMap": {
+      "36262643": [
+        {
+          "originalText": "cruise",
+          "start": 0,
+          "end": 6,
+          "confidence": 0.008063483983278275,
+          "topicId": 36262643,
+          "sentenceId": 0
+        }
+      ],
+      "35319154": [
+        {
+          "originalText": "health safety",
+          "start": 7,
+          "end": 20,
+          "confidence": 0.019235871732234955,
+          "topicId": 35319154,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "657": {
+    "docId": "657",
+    "entityMap": {
+      "17253537": [
+        {
+          "originalText": "banned",
+          "start": 14,
+          "end": 20,
+          "confidence": 0.3792193830013275,
+          "topicId": 17253537,
+          "sentenceId": 0
+        }
+      ],
+      "277257": [
+        {
+          "originalText": "school prayer",
+          "start": 0,
+          "end": 13,
+          "confidence": 0.646955132484436,
+          "topicId": 277257,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "658": {
+    "docId": "658",
+    "entityMap": {
+      "228824": [
+        {
+          "originalText": "teenage pregnancy",
+          "start": 0,
+          "end": 17,
+          "confidence": 0.28037384152412415,
+          "topicId": 228824,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "651": {
+    "docId": "651",
+    "entityMap": {
+      "18717338": [
+        {
+          "originalText": "U.S",
+          "start": 0,
+          "end": 2,
+          "confidence": 0.0733269676566124,
+          "topicId": 18717338,
+          "sentenceId": 0
+        }
+      ],
+      "105004": [
+        {
+          "originalText": "ethnic",
+          "start": 3,
+          "end": 9,
+          "confidence": 0.15330049395561218,
+          "topicId": 105004,
+          "sentenceId": 0
+        }
+      ],
+      "14598": [
+        {
+          "originalText": "population",
+          "start": 10,
+          "end": 20,
+          "confidence": 0.13052378594875336,
+          "topicId": 14598,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "652": {
+    "docId": "652",
+    "entityMap": {
+      "2945604": [
+        {
+          "originalText": "1990s",
+          "start": 12,
+          "end": 17,
+          "confidence": 0.060948051512241364,
+          "topicId": 2945604,
+          "sentenceId": 0
+        }
+      ],
+      "4829": [
+        {
+          "originalText": "Balkans",
+          "start": 4,
+          "end": 11,
+          "confidence": 0.4044170081615448,
+          "topicId": 4829,
+          "sentenceId": 0
+        }
+      ],
+      "47725": [
+        {
+          "originalText": "OIC",
+          "start": 0,
+          "end": 3,
+          "confidence": 0.1960994303226471,
+          "topicId": 47725,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "650": {
+    "docId": "650",
+    "entityMap": {
+      "14559": [
+        {
+          "originalText": "indicted",
+          "start": 12,
+          "end": 20,
+          "confidence": 0.3264349102973938,
+          "topicId": 14559,
+          "sentenceId": 0
+        }
+      ],
+      "2256795": [
+        {
+          "originalText": "tax evasion",
+          "start": 0,
+          "end": 11,
+          "confidence": 0.4993794858455658,
+          "topicId": 2256795,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "655": {
+    "docId": "655",
+    "entityMap": {
+      "4081458": [
+        {
+          "originalText": "ADD",
+          "start": 0,
+          "end": 3,
+          "confidence": 0.003297986928373575,
+          "topicId": 4081458,
+          "sentenceId": 0
+        }
+      ],
+      "20689902": [
+        {
+          "originalText": "diagnosis treatment",
+          "start": 4,
+          "end": 23,
+          "confidence": 0.5,
+          "topicId": 20689902,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "656": {
+    "docId": "656",
+    "entityMap": {
+      "294338": [
+        {
+          "originalText": "lead poisoning",
+          "start": 0,
+          "end": 14,
+          "confidence": 0.5392333269119263,
+          "topicId": 294338,
+          "sentenceId": 0
+        }
+      ],
+      "128987": [
+        {
+          "originalText": "children",
+          "start": 15,
+          "end": 23,
+          "confidence": 0.20813250541687012,
+          "topicId": 128987,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "653": {
+    "docId": "653",
+    "entityMap": {
+      "9926": [
+        {
+          "originalText": "ETA",
+          "start": 0,
+          "end": 3,
+          "confidence": 0.534978985786438,
+          "topicId": 9926,
+          "sentenceId": 0
+        }
+      ],
+      "29432331": [
+        {
+          "originalText": "Basque terrorism",
+          "start": 4,
+          "end": 20,
+          "confidence": 0.6823500394821167,
+          "topicId": 29432331,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "350": {
+    "docId": "350",
+    "entityMap": {
+      "8587640": [
+        {
+          "originalText": "Health",
+          "start": 0,
+          "end": 6,
+          "confidence": 0.2082095444202423,
+          "topicId": 8587640,
+          "sentenceId": 0
+        }
+      ],
+      "249402": [
+        {
+          "originalText": "Computer Terminals",
+          "start": 11,
+          "end": 29,
+          "confidence": 0.23024910688400269,
+          "topicId": 249402,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "654": {
+    "docId": "654",
+    "entityMap": {
+      "5488304": [
+        {
+          "originalText": "same-sex",
+          "start": 0,
+          "end": 7,
+          "confidence": 0.09922321140766144,
+          "topicId": 5488304,
+          "sentenceId": 0
+        }
+      ],
+      "28022": [
+        {
+          "originalText": "schools",
+          "start": 8,
+          "end": 15,
+          "confidence": 0.09700562059879303,
+          "topicId": 28022,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "351": {
+    "docId": "351",
+    "entityMap": {
+      "23195": [
+        {
+          "originalText": "petroleum",
+          "start": 9,
+          "end": 18,
+          "confidence": 0.3523271381855011,
+          "topicId": 23195,
+          "sentenceId": 0
+        }
+      ],
+      "7550182": [
+        {
+          "originalText": "Falkland",
+          "start": 0,
+          "end": 8,
+          "confidence": 0.18682467937469482,
+          "topicId": 7550182,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "353": {
+    "docId": "353",
+    "entityMap": {
+      "18959138": [
+        {
+          "originalText": "Antarctica",
+          "start": 0,
+          "end": 10,
+          "confidence": 0.6184974908828735,
+          "topicId": 18959138,
+          "sentenceId": 0
+        }
+      ],
+      "25437008": [
+        {
+          "originalText": "exploration",
+          "start": 11,
+          "end": 22,
+          "confidence": 0.344480037689209,
+          "topicId": 25437008,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "352": {
+    "docId": "352",
+    "entityMap": {
+      "4016531": [
+        {
+          "originalText": "impact",
+          "start": 16,
+          "end": 22,
+          "confidence": 0.0034427118953317404,
+          "topicId": 4016531,
+          "sentenceId": 0
+        }
+      ],
+      "13530298": [
+        {
+          "originalText": "British",
+          "start": 0,
+          "end": 7,
+          "confidence": 0.15364804863929749,
+          "topicId": 13530298,
+          "sentenceId": 0
+        }
+      ],
+      "5702": [
+        {
+          "originalText": "Chunnel",
+          "start": 8,
+          "end": 15,
+          "confidence": 0.3442547917366028,
+          "topicId": 5702,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "355": {
+    "docId": "355",
+    "entityMap": {
+      "228148": [
+        {
+          "originalText": "remote sensing",
+          "start": 6,
+          "end": 20,
+          "confidence": 0.47074460983276367,
+          "topicId": 228148,
+          "sentenceId": 0
+        }
+      ],
+      "18842359": [
+        {
+          "originalText": "ocean",
+          "start": 0,
+          "end": 5,
+          "confidence": 0.2709377408027649,
+          "topicId": 18842359,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "354": {
+    "docId": "354",
+    "entityMap": {
+      "15928": [
+        {
+          "originalText": "journalist",
+          "start": 0,
+          "end": 10,
+          "confidence": 0.18907389044761658,
+          "topicId": 15928,
+          "sentenceId": 0
+        }
+      ],
+      "24462958": [
+        {
+          "originalText": "risks",
+          "start": 11,
+          "end": 16,
+          "confidence": 0.1255187839269638,
+          "topicId": 24462958,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "357": {
+    "docId": "357",
+    "entityMap": {
+      "496983": [
+        {
+          "originalText": "territorial waters",
+          "start": 0,
+          "end": 18,
+          "confidence": 0.3708758056163788,
+          "topicId": 496983,
+          "sentenceId": 0
+        }
+      ],
+      "8619057": [
+        {
+          "originalText": "dispute",
+          "start": 19,
+          "end": 26,
+          "confidence": 0.21885588765144348,
+          "topicId": 8619057,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "356": {
+    "docId": "356",
+    "entityMap": {
+      "13525": [
+        {
+          "originalText": "Britain",
+          "start": 24,
+          "end": 31,
+          "confidence": 0.08802403509616852,
+          "topicId": 13525,
+          "sentenceId": 0
+        }
+      ],
+      "22581": [
+        {
+          "originalText": "estrogen",
+          "start": 15,
+          "end": 23,
+          "confidence": 0.5747382044792175,
+          "topicId": 22581,
+          "sentenceId": 0
+        }
+      ],
+      "49611": [
+        {
+          "originalText": "postmenopausal",
+          "start": 0,
+          "end": 14,
+          "confidence": 0.3450823426246643,
+          "topicId": 49611,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "359": {
+    "docId": "359",
+    "entityMap": {
+      "30857467": [
+        {
+          "originalText": "fund",
+          "start": 7,
+          "end": 11,
+          "confidence": 0.2516421973705292,
+          "topicId": 30857467,
+          "sentenceId": 0
+        }
+      ],
+      "1037284": [
+        {
+          "originalText": "mutual",
+          "start": 0,
+          "end": 6,
+          "confidence": 0.2558125853538513,
+          "topicId": 1037284,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "358": {
+    "docId": "358",
+    "entityMap": {
+      "4845": [
+        {
+          "originalText": "blood-alcohol",
+          "start": 0,
+          "end": 12,
+          "confidence": 0.1754796802997589,
+          "topicId": 4845,
+          "sentenceId": 0
+        }
+      ],
+      "8221": [
+        {
+          "originalText": "fatalities",
+          "start": 13,
+          "end": 23,
+          "confidence": 0.17760847508907318,
+          "topicId": 8221,
+          "sentenceId": 0
+        }
+      ]
+    }
+  }
+}
