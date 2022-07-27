@@ -1,0 +1,3861 @@
+{
+  "110": {
+    "docId": "110",
+    "entityMap": {
+      "1420643": [
+        {
+          "originalText": "map",
+          "start": 0,
+          "end": 3,
+          "confidence": 0.09001455456018448,
+          "topicId": 1420643,
+          "sentenceId": 0
+        }
+      ],
+      "3383": [
+        {
+          "originalText": "brazil",
+          "start": 7,
+          "end": 13,
+          "confidence": 0.506951630115509,
+          "topicId": 3383,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "111": {
+    "docId": "111",
+    "entityMap": {
+      "3813982": [
+        {
+          "originalText": "lymphoma in dogs",
+          "start": 0,
+          "end": 16,
+          "confidence": 0.5,
+          "topicId": 3813982,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "112": {
+    "docId": "112",
+    "entityMap": {
+      "138004": [
+        {
+          "originalText": "kenmore",
+          "start": 0,
+          "end": 7,
+          "confidence": 0.18780095875263214,
+          "topicId": 138004,
+          "sentenceId": 0
+        }
+      ],
+      "18993869": [
+        {
+          "originalText": "gas",
+          "start": 8,
+          "end": 11,
+          "confidence": 0.14351487159729004,
+          "topicId": 18993869,
+          "sentenceId": 0
+        }
+      ],
+      "521801": [
+        {
+          "originalText": "water heater",
+          "start": 12,
+          "end": 24,
+          "confidence": 0.2941035330295563,
+          "topicId": 521801,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "113": {
+    "docId": "113",
+    "entityMap": {
+      "20972581": [
+        {
+          "originalText": "hp mini 2140",
+          "start": 0,
+          "end": 12,
+          "confidence": 0.5,
+          "topicId": 20972581,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "114": {
+    "docId": "114",
+    "entityMap": {
+      "21217": [
+        {
+          "originalText": "indian",
+          "start": 6,
+          "end": 12,
+          "confidence": 0.15286055207252502,
+          "topicId": 21217,
+          "sentenceId": 0
+        }
+      ],
+      "13590": [
+        {
+          "originalText": "houses",
+          "start": 13,
+          "end": 19,
+          "confidence": 0.12920422852039337,
+          "topicId": 13590,
+          "sentenceId": 0
+        }
+      ],
+      "682": [
+        {
+          "originalText": "adobe",
+          "start": 0,
+          "end": 5,
+          "confidence": 0.2810748517513275,
+          "topicId": 682,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "115": {
+    "docId": "115",
+    "entityMap": {
+      "78147": [
+        {
+          "originalText": "pacific northwest",
+          "start": 0,
+          "end": 17,
+          "confidence": 0.22724659740924835,
+          "topicId": 78147,
+          "sentenceId": 0
+        }
+      ],
+      "173351": [
+        {
+          "originalText": "laboratory",
+          "start": 18,
+          "end": 28,
+          "confidence": 0.011132538318634033,
+          "topicId": 173351,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "116": {
+    "docId": "116",
+    "entityMap": {
+      "13718746": [
+        {
+          "originalText": "california franchise tax board",
+          "start": 0,
+          "end": 30,
+          "confidence": 0.3478260934352875,
+          "topicId": 13718746,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "117": {
+    "docId": "117",
+    "entityMap": {
+      "21492663": [
+        {
+          "originalText": "asbestos",
+          "start": 11,
+          "end": 19,
+          "confidence": 0.5025036931037903,
+          "topicId": 21492663,
+          "sentenceId": 0
+        }
+      ],
+      "24462958": [
+        {
+          "originalText": "dangers",
+          "start": 0,
+          "end": 7,
+          "confidence": 0.220628559589386,
+          "topicId": 24462958,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "118": {
+    "docId": "118",
+    "entityMap": {
+      "767894": [
+        {
+          "originalText": "pocket",
+          "start": 13,
+          "end": 19,
+          "confidence": 0.05156616121530533,
+          "topicId": 767894,
+          "sentenceId": 0
+        }
+      ],
+      "22926": [
+        {
+          "originalText": "poem",
+          "start": 0,
+          "end": 4,
+          "confidence": 0.13514025509357452,
+          "topicId": 22926,
+          "sentenceId": 0
+        }
+      ],
+      "298314": [
+        {
+          "originalText": "day",
+          "start": 20,
+          "end": 23,
+          "confidence": 0.07502932101488113,
+          "topicId": 298314,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "119": {
+    "docId": "119",
+    "entityMap": {
+      "1701120": [
+        {
+          "originalText": "thank you",
+          "start": 10,
+          "end": 19,
+          "confidence": 0.04177093505859375,
+          "topicId": 1701120,
+          "sentenceId": 0
+        }
+      ],
+      "236975": [
+        {
+          "originalText": "interview",
+          "start": 0,
+          "end": 9,
+          "confidence": 0.006259304936975241,
+          "topicId": 236975,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "120": {
+    "docId": "120",
+    "entityMap": {
+      "7878457": [
+        {
+          "originalText": "computer",
+          "start": 6,
+          "end": 14,
+          "confidence": 0.20745794475078583,
+          "topicId": 7878457,
+          "sentenceId": 0
+        }
+      ],
+      "29831": [
+        {
+          "originalText": "tv",
+          "start": 0,
+          "end": 2,
+          "confidence": 0.19560882449150085,
+          "topicId": 29831,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "121": {
+    "docId": "121",
+    "entityMap": {
+      "37282605": [
+        {
+          "originalText": "sit",
+          "start": 0,
+          "end": 3,
+          "confidence": 0.09637593477964401,
+          "topicId": 37282605,
+          "sentenceId": 0
+        }
+      ],
+      "27672": [
+        {
+          "originalText": "reach",
+          "start": 8,
+          "end": 13,
+          "confidence": 0.08982035517692566,
+          "topicId": 27672,
+          "sentenceId": 0
+        }
+      ],
+      "337775": [
+        {
+          "originalText": "test",
+          "start": 14,
+          "end": 18,
+          "confidence": 0.014512908644974232,
+          "topicId": 337775,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "001": {
+    "docId": "001",
+    "entityMap": {
+      "17775180": [
+        {
+          "originalText": "obama family",
+          "start": 0,
+          "end": 12,
+          "confidence": 0.27941176295280457,
+          "topicId": 17775180,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "122": {
+    "docId": "122",
+    "entityMap": {
+      "4480425": [
+        {
+          "originalText": "culpeper national cemetery",
+          "start": 0,
+          "end": 26,
+          "confidence": 0.5,
+          "topicId": 4480425,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "002": {
+    "docId": "002",
+    "entityMap": {
+      "112521": [
+        {
+          "originalText": "french lick",
+          "start": 0,
+          "end": 11,
+          "confidence": 0.5048545598983765,
+          "topicId": 112521,
+          "sentenceId": 0
+        }
+      ],
+      "5215": [
+        {
+          "originalText": "casino",
+          "start": 23,
+          "end": 29,
+          "confidence": 0.18826547265052795,
+          "topicId": 5215,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "123": {
+    "docId": "123",
+    "entityMap": {
+      "311436": [
+        {
+          "originalText": "von willebrand disease",
+          "start": 0,
+          "end": 22,
+          "confidence": 0.5,
+          "topicId": 311436,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "003": {
+    "docId": "003",
+    "entityMap": {
+      "23755270": [
+        {
+          "originalText": "getting",
+          "start": 0,
+          "end": 7,
+          "confidence": 0.020486267283558846,
+          "topicId": 23755270,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "124": {
+    "docId": "124",
+    "entityMap": {
+      "11990673": [
+        {
+          "originalText": "bowflex",
+          "start": 0,
+          "end": 7,
+          "confidence": 0.4791666567325592,
+          "topicId": 11990673,
+          "sentenceId": 0
+        }
+      ],
+      "2671429": [
+        {
+          "originalText": "power pro",
+          "start": 8,
+          "end": 17,
+          "confidence": 0.03125,
+          "topicId": 2671429,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "004": {
+    "docId": "004",
+    "entityMap": {
+      "19167644": [
+        {
+          "originalText": "toilet",
+          "start": 0,
+          "end": 6,
+          "confidence": 0.03531627729535103,
+          "topicId": 19167644,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "125": {
+    "docId": "125",
+    "entityMap": {
+      "46183": [
+        {
+          "originalText": "butter",
+          "start": 0,
+          "end": 6,
+          "confidence": 0.4666120409965515,
+          "topicId": 46183,
+          "sentenceId": 0
+        }
+      ],
+      "193276": [
+        {
+          "originalText": "margarine",
+          "start": 11,
+          "end": 20,
+          "confidence": 0.6374004483222961,
+          "topicId": 193276,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "005": {
+    "docId": "005",
+    "entityMap": {
+      "502360": [
+        {
+          "originalText": "mitchell college",
+          "start": 0,
+          "end": 16,
+          "confidence": 0.09589041024446487,
+          "topicId": 502360,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "126": {
+    "docId": "126",
+    "entityMap": {
+      "19877": [
+        {
+          "originalText": "map",
+          "start": 11,
+          "end": 14,
+          "confidence": 0.01356455683708191,
+          "topicId": 19877,
+          "sentenceId": 0
+        }
+      ],
+      "31979": [
+        {
+          "originalText": "us capitol",
+          "start": 0,
+          "end": 10,
+          "confidence": 0.23831070959568024,
+          "topicId": 31979,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "006": {
+    "docId": "006",
+    "entityMap": {
+      "345688": [
+        {
+          "originalText": "kcs",
+          "start": 0,
+          "end": 3,
+          "confidence": 0.0904255285859108,
+          "topicId": 345688,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "127": {
+    "docId": "127",
+    "entityMap": {
+      "50528": [
+        {
+          "originalText": "dutchess county",
+          "start": 0,
+          "end": 15,
+          "confidence": 0.3295999765396118,
+          "topicId": 50528,
+          "sentenceId": 0
+        }
+      ],
+      "29789": [
+        {
+          "originalText": "tourism",
+          "start": 16,
+          "end": 23,
+          "confidence": 0.0850829929113388,
+          "topicId": 29789,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "007": {
+    "docId": "007",
+    "entityMap": {
+      "36674345": [
+        {
+          "originalText": "information",
+          "start": 11,
+          "end": 22,
+          "confidence": 0.13839225471019745,
+          "topicId": 36674345,
+          "sentenceId": 0
+        }
+      ],
+      "51215": [
+        {
+          "originalText": "air travel",
+          "start": 0,
+          "end": 10,
+          "confidence": 0.16384264826774597,
+          "topicId": 51215,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "128": {
+    "docId": "128",
+    "entityMap": {
+      "483490": [
+        {
+          "originalText": "squamous cells",
+          "start": 9,
+          "end": 23,
+          "confidence": 0.0882352963089943,
+          "topicId": 483490,
+          "sentenceId": 0
+        }
+      ],
+      "185272": [
+        {
+          "originalText": "atypical",
+          "start": 0,
+          "end": 8,
+          "confidence": 0.0027262812945991755,
+          "topicId": 185272,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "008": {
+    "docId": "008",
+    "entityMap": {
+      "871336": [
+        {
+          "originalText": "appraisals",
+          "start": 0,
+          "end": 10,
+          "confidence": 0.0035335689317435026,
+          "topicId": 871336,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "129": {
+    "docId": "129",
+    "entityMap": {
+      "26810748": [
+        {
+          "originalText": "iowa",
+          "start": 0,
+          "end": 4,
+          "confidence": 0.32203882932662964,
+          "topicId": 26810748,
+          "sentenceId": 0
+        }
+      ],
+      "659087": [
+        {
+          "originalText": "food stamp program",
+          "start": 5,
+          "end": 23,
+          "confidence": 0.40564998984336853,
+          "topicId": 659087,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "009": {
+    "docId": "009",
+    "entityMap": {
+      "5146762": [
+        {
+          "originalText": "used car",
+          "start": 0,
+          "end": 8,
+          "confidence": 0.04236200079321861,
+          "topicId": 5146762,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "130": {
+    "docId": "130",
+    "entityMap": {
+      "58617": [
+        {
+          "originalText": "fact",
+          "start": 0,
+          "end": 4,
+          "confidence": 0.21305835247039795,
+          "topicId": 58617,
+          "sentenceId": 0
+        }
+      ],
+      "44475": [
+        {
+          "originalText": "uranus",
+          "start": 8,
+          "end": 14,
+          "confidence": 0.6250280141830444,
+          "topicId": 44475,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "010": {
+    "docId": "010",
+    "entityMap": {
+      "1007311": [
+        {
+          "originalText": "cheap",
+          "start": 0,
+          "end": 5,
+          "confidence": 0.2992536127567291,
+          "topicId": 1007311,
+          "sentenceId": 0
+        }
+      ],
+      "14539": [
+        {
+          "originalText": "internet",
+          "start": 6,
+          "end": 14,
+          "confidence": 0.3602639138698578,
+          "topicId": 14539,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "131": {
+    "docId": "131",
+    "entityMap": {
+      "4922510": [
+        {
+          "originalText": "equal opportunity employer",
+          "start": 0,
+          "end": 26,
+          "confidence": 0.1875,
+          "topicId": 4922510,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "011": {
+    "docId": "011",
+    "entityMap": {
+      "420020": [
+        {
+          "originalText": "prep",
+          "start": 5,
+          "end": 9,
+          "confidence": 0.20580540597438812,
+          "topicId": 420020,
+          "sentenceId": 0
+        }
+      ],
+      "255232": [
+        {
+          "originalText": "gmat",
+          "start": 0,
+          "end": 4,
+          "confidence": 0.3172655999660492,
+          "topicId": 255232,
+          "sentenceId": 0
+        }
+      ],
+      "29174": [
+        {
+          "originalText": "classes",
+          "start": 10,
+          "end": 17,
+          "confidence": 0.0989815816283226,
+          "topicId": 29174,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "132": {
+    "docId": "132",
+    "entityMap": {
+      "46276": [
+        {
+          "originalText": "mothers day",
+          "start": 0,
+          "end": 11,
+          "confidence": 0.26616665720939636,
+          "topicId": 46276,
+          "sentenceId": 0
+        }
+      ],
+      "28830": [
+        {
+          "originalText": "songs",
+          "start": 12,
+          "end": 17,
+          "confidence": 0.07578209042549133,
+          "topicId": 28830,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "012": {
+    "docId": "012",
+    "entityMap": {
+      "8683": [
+        {
+          "originalText": "djs",
+          "start": 0,
+          "end": 3,
+          "confidence": 0.02997221052646637,
+          "topicId": 8683,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "133": {
+    "docId": "133",
+    "entityMap": {
+      "331170": [
+        {
+          "originalText": "all men are created equal",
+          "start": 0,
+          "end": 25,
+          "confidence": 0.12403100728988647,
+          "topicId": 331170,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "013": {
+    "docId": "013",
+    "entityMap": {
+      "19877": [
+        {
+          "originalText": "map",
+          "start": 0,
+          "end": 3,
+          "confidence": 0.01356455683708191,
+          "topicId": 19877,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "134": {
+    "docId": "134",
+    "entityMap": {
+      "9510": [
+        {
+          "originalText": "electronic",
+          "start": 0,
+          "end": 10,
+          "confidence": 0.022452861070632935,
+          "topicId": 9510,
+          "sentenceId": 0
+        }
+      ],
+      "5813166": [
+        {
+          "originalText": "skeet shoot",
+          "start": 11,
+          "end": 22,
+          "confidence": 0.5,
+          "topicId": 5813166,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "014": {
+    "docId": "014",
+    "entityMap": {
+      "8311": [
+        {
+          "originalText": "dinosaurs",
+          "start": 0,
+          "end": 9,
+          "confidence": 0.045520082116127014,
+          "topicId": 8311,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "135": {
+    "docId": "135",
+    "entityMap": {
+      "21244": [
+        {
+          "originalText": "nile",
+          "start": 14,
+          "end": 18,
+          "confidence": 0.6405423879623413,
+          "topicId": 21244,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "015": {
+    "docId": "015",
+    "entityMap": {
+      "77795": [
+        {
+          "originalText": "espn",
+          "start": 0,
+          "end": 4,
+          "confidence": 0.5930533409118652,
+          "topicId": 77795,
+          "sentenceId": 0
+        }
+      ],
+      "25778403": [
+        {
+          "originalText": "sports",
+          "start": 5,
+          "end": 11,
+          "confidence": 0.2134038507938385,
+          "topicId": 25778403,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "136": {
+    "docId": "136",
+    "entityMap": {
+      "3884115": [
+        {
+          "originalText": "american military university",
+          "start": 0,
+          "end": 28,
+          "confidence": 0.4761904776096344,
+          "topicId": 3884115,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "016": {
+    "docId": "016",
+    "entityMap": {
+      "4699587": [
+        {
+          "originalText": "fish",
+          "start": 17,
+          "end": 21,
+          "confidence": 0.18133580684661865,
+          "topicId": 4699587,
+          "sentenceId": 0
+        }
+      ],
+      "21883824": [
+        {
+          "originalText": "arizona",
+          "start": 0,
+          "end": 7,
+          "confidence": 0.32836344838142395,
+          "topicId": 21883824,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "137": {
+    "docId": "137",
+    "entityMap": {
+      "1084283": [
+        {
+          "originalText": "gem",
+          "start": 9,
+          "end": 12,
+          "confidence": 0.04810149595141411,
+          "topicId": 1084283,
+          "sentenceId": 0
+        }
+      ],
+      "199661": [
+        {
+          "originalText": "rock",
+          "start": 0,
+          "end": 4,
+          "confidence": 0.04779789596796036,
+          "topicId": 199661,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "017": {
+    "docId": "017",
+    "entityMap": {
+      "23014": [
+        {
+          "originalText": "poker",
+          "start": 0,
+          "end": 5,
+          "confidence": 0.5243725776672363,
+          "topicId": 23014,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "138": {
+    "docId": "138",
+    "entityMap": {
+      "58721": [
+        {
+          "originalText": "chemical",
+          "start": 4,
+          "end": 12,
+          "confidence": 0.2649143636226654,
+          "topicId": 58721,
+          "sentenceId": 0
+        }
+      ],
+      "969147": [
+        {
+          "originalText": "jax",
+          "start": 0,
+          "end": 3,
+          "confidence": 0.11596958339214325,
+          "topicId": 969147,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "018": {
+    "docId": "018",
+    "entityMap": {
+      "33333149": [
+        {
+          "originalText": "budget",
+          "start": 8,
+          "end": 14,
+          "confidence": 0.11094564944505692,
+          "topicId": 33333149,
+          "sentenceId": 0
+        }
+      ],
+      "7593": [
+        {
+          "originalText": "calculator",
+          "start": 15,
+          "end": 25,
+          "confidence": 0.21617081761360168,
+          "topicId": 7593,
+          "sentenceId": 0
+        }
+      ],
+      "32893": [
+        {
+          "originalText": "wedding",
+          "start": 0,
+          "end": 7,
+          "confidence": 0.019555434584617615,
+          "topicId": 32893,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "139": {
+    "docId": "139",
+    "entityMap": {
+      "1897579": [
+        {
+          "originalText": "rocky mountain news",
+          "start": 0,
+          "end": 19,
+          "confidence": 0.39566394686698914,
+          "topicId": 1897579,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "019": {
+    "docId": "019",
+    "entityMap": {
+      "7735112": [
+        {
+          "originalText": "the current",
+          "start": 0,
+          "end": 11,
+          "confidence": 0.04545454680919647,
+          "topicId": 7735112,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "140": {
+    "docId": "140",
+    "entityMap": {
+      "8426690": [
+        {
+          "originalText": "east ridge high school",
+          "start": 0,
+          "end": 22,
+          "confidence": 0.5,
+          "topicId": 8426690,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "020": {
+    "docId": "020",
+    "entityMap": {
+      "649702": [
+        {
+          "originalText": "defender",
+          "start": 0,
+          "end": 8,
+          "confidence": 0.18240617215633392,
+          "topicId": 649702,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "141": {
+    "docId": "141",
+    "entityMap": {
+      "32432": [
+        {
+          "originalText": "va",
+          "start": 0,
+          "end": 2,
+          "confidence": 0.14956362545490265,
+          "topicId": 32432,
+          "sentenceId": 0
+        }
+      ],
+      "4993736": [
+        {
+          "originalText": "registration",
+          "start": 7,
+          "end": 19,
+          "confidence": 0.007715133484452963,
+          "topicId": 4993736,
+          "sentenceId": 0
+        }
+      ],
+      "2914034": [
+        {
+          "originalText": "dmv",
+          "start": 3,
+          "end": 6,
+          "confidence": 0.252947062253952,
+          "topicId": 2914034,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "021": {
+    "docId": "021",
+    "entityMap": {
+      "32412": [
+        {
+          "originalText": "volvo",
+          "start": 0,
+          "end": 5,
+          "confidence": 0.1856386512517929,
+          "topicId": 32412,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "142": {
+    "docId": "142",
+    "entityMap": {
+      "14849": [
+        {
+          "originalText": "illinois",
+          "start": 0,
+          "end": 8,
+          "confidence": 0.37710386514663696,
+          "topicId": 14849,
+          "sentenceId": 0
+        }
+      ],
+      "18618239": [
+        {
+          "originalText": "state",
+          "start": 9,
+          "end": 14,
+          "confidence": 0.23238062858581543,
+          "topicId": 18618239,
+          "sentenceId": 0
+        }
+      ],
+      "30552": [
+        {
+          "originalText": "tax",
+          "start": 15,
+          "end": 18,
+          "confidence": 0.2214621901512146,
+          "topicId": 30552,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "022": {
+    "docId": "022",
+    "entityMap": {
+      "735151": [
+        {
+          "originalText": "rick warren",
+          "start": 0,
+          "end": 11,
+          "confidence": 0.5,
+          "topicId": 735151,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "143": {
+    "docId": "143",
+    "entityMap": {
+      "106883": [
+        {
+          "originalText": "arkadelphia",
+          "start": 0,
+          "end": 11,
+          "confidence": 0.2772727310657501,
+          "topicId": 106883,
+          "sentenceId": 0
+        }
+      ],
+      "7367299": [
+        {
+          "originalText": "health club",
+          "start": 12,
+          "end": 23,
+          "confidence": 0.09365079551935196,
+          "topicId": 7367299,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "023": {
+    "docId": "023",
+    "entityMap": {
+      "188213": [
+        {
+          "originalText": "yahoo",
+          "start": 0,
+          "end": 5,
+          "confidence": 0.2063106745481491,
+          "topicId": 188213,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "144": {
+    "docId": "144",
+    "entityMap": {
+      "22152443": [
+        {
+          "originalText": "sale",
+          "start": 13,
+          "end": 17,
+          "confidence": 0.09513308852910995,
+          "topicId": 22152443,
+          "sentenceId": 0
+        }
+      ],
+      "29837": [
+        {
+          "originalText": "trombone",
+          "start": 0,
+          "end": 8,
+          "confidence": 0.3341335654258728,
+          "topicId": 29837,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "024": {
+    "docId": "024",
+    "entityMap": {
+      "51885": [
+        {
+          "originalText": "diversity",
+          "start": 0,
+          "end": 9,
+          "confidence": 0.013815650716423988,
+          "topicId": 51885,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "145": {
+    "docId": "145",
+    "entityMap": {
+      "66607": [
+        {
+          "originalText": "vines",
+          "start": 0,
+          "end": 5,
+          "confidence": 0.0402059331536293,
+          "topicId": 66607,
+          "sentenceId": 0
+        }
+      ],
+      "12275956": [
+        {
+          "originalText": "shade",
+          "start": 10,
+          "end": 15,
+          "confidence": 0.01622728258371353,
+          "topicId": 12275956,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "025": {
+    "docId": "025",
+    "entityMap": {
+      "9331": [
+        {
+          "originalText": "euclid",
+          "start": 0,
+          "end": 6,
+          "confidence": 0.26222068071365356,
+          "topicId": 9331,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "146": {
+    "docId": "146",
+    "entityMap": {
+      "2524043": [
+        {
+          "originalText": "sherwood",
+          "start": 0,
+          "end": 8,
+          "confidence": 0.19630557298660278,
+          "topicId": 2524043,
+          "sentenceId": 0
+        }
+      ],
+      "17727": [
+        {
+          "originalText": "library",
+          "start": 18,
+          "end": 25,
+          "confidence": 0.16665533185005188,
+          "topicId": 17727,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "026": {
+    "docId": "026",
+    "entityMap": {
+      "550187": [
+        {
+          "originalText": "lower",
+          "start": 0,
+          "end": 5,
+          "confidence": 7.358244620263577E-4,
+          "topicId": 550187,
+          "sentenceId": 0
+        }
+      ],
+      "304942": [
+        {
+          "originalText": "heart rate",
+          "start": 6,
+          "end": 16,
+          "confidence": 0.12460368126630783,
+          "topicId": 304942,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "147": {
+    "docId": "147",
+    "entityMap": {
+      "373814": [
+        {
+          "originalText": "property tax",
+          "start": 18,
+          "end": 30,
+          "confidence": 0.6477891206741333,
+          "topicId": 373814,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "027": {
+    "docId": "027",
+    "entityMap": {
+      "178771": [
+        {
+          "originalText": "starbucks",
+          "start": 0,
+          "end": 9,
+          "confidence": 0.39090386033058167,
+          "topicId": 178771,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "148": {
+    "docId": "148",
+    "entityMap": {
+      "70145": [
+        {
+          "originalText": "imclone",
+          "start": 19,
+          "end": 26,
+          "confidence": 0.5790135860443115,
+          "topicId": 70145,
+          "sentenceId": 0
+        }
+      ],
+      "190995": [
+        {
+          "originalText": "martha stewart",
+          "start": 0,
+          "end": 14,
+          "confidence": 0.7054857015609741,
+          "topicId": 190995,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "028": {
+    "docId": "028",
+    "entityMap": {
+      "113028": [
+        {
+          "originalText": "inuyasha",
+          "start": 0,
+          "end": 8,
+          "confidence": 0.5,
+          "topicId": 113028,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "149": {
+    "docId": "149",
+    "entityMap": {
+      "34340": [
+        {
+          "originalText": "yellowstone national park",
+          "start": 10,
+          "end": 35,
+          "confidence": 0.699999988079071,
+          "topicId": 34340,
+          "sentenceId": 0
+        }
+      ],
+      "1415891": [
+        {
+          "originalText": "uplift",
+          "start": 0,
+          "end": 6,
+          "confidence": 0.2290901243686676,
+          "topicId": 1415891,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "029": {
+    "docId": "029",
+    "entityMap": {
+      "1336512": [
+        {
+          "originalText": "games",
+          "start": 5,
+          "end": 10,
+          "confidence": 0.19726917147636414,
+          "topicId": 1336512,
+          "sentenceId": 0
+        }
+      ],
+      "218204": [
+        {
+          "originalText": "ps 2",
+          "start": 0,
+          "end": 4,
+          "confidence": 0.39780372381210327,
+          "topicId": 218204,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "150": {
+    "docId": "150",
+    "entityMap": {
+      "30395": [
+        {
+          "originalText": "tn",
+          "start": 0,
+          "end": 2,
+          "confidence": 0.12875905632972717,
+          "topicId": 30395,
+          "sentenceId": 0
+        }
+      ],
+      "318666": [
+        {
+          "originalText": "highway patrol",
+          "start": 3,
+          "end": 17,
+          "confidence": 0.2593349814414978,
+          "topicId": 318666,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "030": {
+    "docId": "030",
+    "entityMap": {
+      "40017873": [
+        {
+          "originalText": "diabetes",
+          "start": 0,
+          "end": 8,
+          "confidence": 0.294146329164505,
+          "topicId": 40017873,
+          "sentenceId": 0
+        }
+      ],
+      "9252": [
+        {
+          "originalText": "education",
+          "start": 9,
+          "end": 18,
+          "confidence": 0.10764168947935104,
+          "topicId": 9252,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "151": {
+    "docId": "151",
+    "entityMap": {
+      "689685": [
+        {
+          "originalText": "403b",
+          "start": 0,
+          "end": 4,
+          "confidence": 0.125,
+          "topicId": 689685,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "031": {
+    "docId": "031",
+    "entityMap": {
+      "2234": [
+        {
+          "originalText": "atari",
+          "start": 0,
+          "end": 5,
+          "confidence": 0.16432291269302368,
+          "topicId": 2234,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "152": {
+    "docId": "152",
+    "entityMap": {
+      "3392594": [
+        {
+          "originalText": "angular cheilitis",
+          "start": 0,
+          "end": 17,
+          "confidence": 0.5,
+          "topicId": 3392594,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "032": {
+    "docId": "032",
+    "entityMap": {
+      "34035": [
+        {
+          "originalText": "website design",
+          "start": 0,
+          "end": 14,
+          "confidence": 0.3705735206604004,
+          "topicId": 34035,
+          "sentenceId": 0
+        }
+      ],
+      "157465": [
+        {
+          "originalText": "hosting",
+          "start": 15,
+          "end": 22,
+          "confidence": 0.31341418623924255,
+          "topicId": 157465,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "153": {
+    "docId": "153",
+    "entityMap": {
+      "685602": [
+        {
+          "originalText": "pocono",
+          "start": 0,
+          "end": 6,
+          "confidence": 0.05420991778373718,
+          "topicId": 685602,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "033": {
+    "docId": "033",
+    "entityMap": {
+      "1393614": [
+        {
+          "originalText": "elliptical trainer",
+          "start": 0,
+          "end": 18,
+          "confidence": 0.5,
+          "topicId": 1393614,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "154": {
+    "docId": "154",
+    "entityMap": {
+      "57893": [
+        {
+          "originalText": "figs",
+          "start": 0,
+          "end": 4,
+          "confidence": 0.05958230793476105,
+          "topicId": 57893,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "034": {
+    "docId": "034",
+    "entityMap": {
+      "19644137": [
+        {
+          "originalText": "cell phones",
+          "start": 0,
+          "end": 11,
+          "confidence": 0.04514435678720474,
+          "topicId": 19644137,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "155": {
+    "docId": "155",
+    "entityMap": {
+      "30667": [
+        {
+          "originalText": "last supper",
+          "start": 0,
+          "end": 11,
+          "confidence": 0.5287462472915649,
+          "topicId": 30667,
+          "sentenceId": 0
+        }
+      ],
+      "18622193": [
+        {
+          "originalText": "painting",
+          "start": 12,
+          "end": 20,
+          "confidence": 0.1771191656589508,
+          "topicId": 18622193,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "035": {
+    "docId": "035",
+    "entityMap": {
+      "125235": [
+        {
+          "originalText": "hoboken",
+          "start": 0,
+          "end": 7,
+          "confidence": 0.1252022683620453,
+          "topicId": 125235,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "156": {
+    "docId": "156",
+    "entityMap": {
+      "489589": [
+        {
+          "originalText": "university of phoenix",
+          "start": 0,
+          "end": 21,
+          "confidence": 0.34741783142089844,
+          "topicId": 489589,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "036": {
+    "docId": "036",
+    "entityMap": {
+      "11866": [
+        {
+          "originalText": "gps",
+          "start": 0,
+          "end": 3,
+          "confidence": 0.2375974804162979,
+          "topicId": 11866,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "157": {
+    "docId": "157",
+    "entityMap": {
+      "20759225": [
+        {
+          "originalText": "beatles rock band",
+          "start": 4,
+          "end": 21,
+          "confidence": 0.5,
+          "topicId": 20759225,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "037": {
+    "docId": "037",
+    "entityMap": {
+      "888155": [
+        {
+          "originalText": "pampered chef",
+          "start": 0,
+          "end": 13,
+          "confidence": 0.5,
+          "topicId": 888155,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "158": {
+    "docId": "158",
+    "entityMap": {
+      "217773": [
+        {
+          "originalText": "septic system",
+          "start": 0,
+          "end": 13,
+          "confidence": 0.3866666555404663,
+          "topicId": 217773,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "038": {
+    "docId": "038",
+    "entityMap": {
+      "38534": [
+        {
+          "originalText": "adoption",
+          "start": 9,
+          "end": 17,
+          "confidence": 0.17907530069351196,
+          "topicId": 38534,
+          "sentenceId": 0
+        }
+      ],
+      "273243": [
+        {
+          "originalText": "dogs",
+          "start": 0,
+          "end": 4,
+          "confidence": 0.1669282764196396,
+          "topicId": 273243,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "159": {
+    "docId": "159",
+    "entityMap": {
+      "108303": [
+        {
+          "originalText": "porterville",
+          "start": 0,
+          "end": 11,
+          "confidence": 0.27225130796432495,
+          "topicId": 108303,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "039": {
+    "docId": "039",
+    "entityMap": {
+      "6175201": [
+        {
+          "originalText": "disneyland hotel",
+          "start": 0,
+          "end": 16,
+          "confidence": 0.5,
+          "topicId": 6175201,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "160": {
+    "docId": "160",
+    "entityMap": {
+      "52987": [
+        {
+          "originalText": "grilling",
+          "start": 0,
+          "end": 8,
+          "confidence": 0.1208677664399147,
+          "topicId": 52987,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "040": {
+    "docId": "040",
+    "entityMap": {}
+  },
+  "161": {
+    "docId": "161",
+    "entityMap": {
+      "48597": [
+        {
+          "originalText": "furniture",
+          "start": 0,
+          "end": 9,
+          "confidence": 0.031317610293626785,
+          "topicId": 48597,
+          "sentenceId": 0
+        }
+      ],
+      "292376": [
+        {
+          "originalText": "small spaces",
+          "start": 14,
+          "end": 26,
+          "confidence": 0.004854368977248669,
+          "topicId": 292376,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "041": {
+    "docId": "041",
+    "entityMap": {
+      "6961997": [
+        {
+          "originalText": "orange county convention center",
+          "start": 0,
+          "end": 31,
+          "confidence": 0.46078431606292725,
+          "topicId": 6961997,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "162": {
+    "docId": "162",
+    "entityMap": {
+      "166811": [
+        {
+          "originalText": "dnr",
+          "start": 0,
+          "end": 3,
+          "confidence": 0.06181318685412407,
+          "topicId": 166811,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "042": {
+    "docId": "042",
+    "entityMap": {
+      "97723": [
+        {
+          "originalText": "music man",
+          "start": 4,
+          "end": 13,
+          "confidence": 0.39966922998428345,
+          "topicId": 97723,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "163": {
+    "docId": "163",
+    "entityMap": {
+      "1930": [
+        {
+          "originalText": "arkansas",
+          "start": 0,
+          "end": 8,
+          "confidence": 0.21967828273773193,
+          "topicId": 1930,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "043": {
+    "docId": "043",
+    "entityMap": {
+      "410873": [
+        {
+          "originalText": "secret garden",
+          "start": 4,
+          "end": 17,
+          "confidence": 0.3745364546775818,
+          "topicId": 410873,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "164": {
+    "docId": "164",
+    "entityMap": {
+      "311886": [
+        {
+          "originalText": "hobby stores",
+          "start": 0,
+          "end": 12,
+          "confidence": 0.0517241396009922,
+          "topicId": 311886,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "044": {
+    "docId": "044",
+    "entityMap": {
+      "3434750": [
+        {
+          "originalText": "united states",
+          "start": 11,
+          "end": 24,
+          "confidence": 0.19561204314231873,
+          "topicId": 3434750,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "165": {
+    "docId": "165",
+    "entityMap": {
+      "2442673": [
+        {
+          "originalText": "blue throated hummingbird",
+          "start": 0,
+          "end": 25,
+          "confidence": 0.5,
+          "topicId": 2442673,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "045": {
+    "docId": "045",
+    "entityMap": {
+      "3507365": [
+        {
+          "originalText": "solar panels",
+          "start": 0,
+          "end": 12,
+          "confidence": 0.07061503082513809,
+          "topicId": 3507365,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "166": {
+    "docId": "166",
+    "entityMap": {
+      "5311": [
+        {
+          "originalText": "computer programming",
+          "start": 0,
+          "end": 20,
+          "confidence": 0.19085334241390228,
+          "topicId": 5311,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "046": {
+    "docId": "046",
+    "entityMap": {
+      "5198401": [
+        {
+          "originalText": "alexian brothers",
+          "start": 0,
+          "end": 16,
+          "confidence": 0.6976743936538696,
+          "topicId": 5198401,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "167": {
+    "docId": "167",
+    "entityMap": {
+      "3455": [
+        {
+          "originalText": "barbados",
+          "start": 0,
+          "end": 8,
+          "confidence": 0.4140140116214752,
+          "topicId": 3455,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "047": {
+    "docId": "047",
+    "entityMap": {
+      "22046794": [
+        {
+          "originalText": "indexed annuity",
+          "start": 0,
+          "end": 15,
+          "confidence": 0.4000000059604645,
+          "topicId": 22046794,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "168": {
+    "docId": "168",
+    "entityMap": {
+      "288150": [
+        {
+          "originalText": "lipoma",
+          "start": 0,
+          "end": 6,
+          "confidence": 0.5,
+          "topicId": 288150,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "048": {
+    "docId": "048",
+    "entityMap": {
+      "187317": [
+        {
+          "originalText": "antenna",
+          "start": 7,
+          "end": 14,
+          "confidence": 0.16176113486289978,
+          "topicId": 187317,
+          "sentenceId": 0
+        }
+      ],
+      "52271": [
+        {
+          "originalText": "wilson",
+          "start": 0,
+          "end": 6,
+          "confidence": 0.12060344964265823,
+          "topicId": 52271,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "169": {
+    "docId": "169",
+    "entityMap": {
+      "4181": [
+        {
+          "originalText": "battles",
+          "start": 0,
+          "end": 7,
+          "confidence": 0.17247124016284943,
+          "topicId": 4181,
+          "sentenceId": 0
+        }
+      ],
+      "863": [
+        {
+          "originalText": "civil war",
+          "start": 15,
+          "end": 24,
+          "confidence": 0.27141016721725464,
+          "topicId": 863,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "049": {
+    "docId": "049",
+    "entityMap": {
+      "8560": [
+        {
+          "originalText": "designs",
+          "start": 6,
+          "end": 13,
+          "confidence": 0.13589397072792053,
+          "topicId": 8560,
+          "sentenceId": 0
+        }
+      ],
+      "11145": [
+        {
+          "originalText": "flame",
+          "start": 0,
+          "end": 5,
+          "confidence": 0.1603725552558899,
+          "topicId": 11145,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "170": {
+    "docId": "170",
+    "entityMap": {
+      "23809410": [
+        {
+          "originalText": "scooters",
+          "start": 0,
+          "end": 8,
+          "confidence": 0.07058823853731155,
+          "topicId": 23809410,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "050": {
+    "docId": "050",
+    "entityMap": {
+      "1996205": [
+        {
+          "originalText": "heat",
+          "start": 4,
+          "end": 8,
+          "confidence": 0.3266083598136902,
+          "topicId": 1996205,
+          "sentenceId": 0
+        }
+      ],
+      "4269567": [
+        {
+          "originalText": "dog",
+          "start": 0,
+          "end": 3,
+          "confidence": 0.3380671739578247,
+          "topicId": 4269567,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "171": {
+    "docId": "171",
+    "entityMap": {
+      "58928": [
+        {
+          "originalText": "ron howard",
+          "start": 0,
+          "end": 10,
+          "confidence": 0.5,
+          "topicId": 58928,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "051": {
+    "docId": "051",
+    "entityMap": {
+      "5433125": [
+        {
+          "originalText": "horse hooves",
+          "start": 0,
+          "end": 12,
+          "confidence": 0.07407407462596893,
+          "topicId": 5433125,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "172": {
+    "docId": "172",
+    "entityMap": {
+      "236584": [
+        {
+          "originalText": "paralegal",
+          "start": 11,
+          "end": 20,
+          "confidence": 0.190522238612175,
+          "topicId": 236584,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "052": {
+    "docId": "052",
+    "entityMap": {
+      "2603563": [
+        {
+          "originalText": "avp",
+          "start": 0,
+          "end": 3,
+          "confidence": 0.13432836532592773,
+          "topicId": 2603563,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "173": {
+    "docId": "173",
+    "entityMap": {
+      "1706838": [
+        {
+          "originalText": "hip fractures",
+          "start": 0,
+          "end": 13,
+          "confidence": 0.13934426009655,
+          "topicId": 1706838,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "053": {
+    "docId": "053",
+    "entityMap": {
+      "77807": [
+        {
+          "originalText": "discovery channel store",
+          "start": 0,
+          "end": 23,
+          "confidence": 0.5,
+          "topicId": 77807,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "174": {
+    "docId": "174",
+    "entityMap": {
+      "928469": [
+        {
+          "originalText": "rock art",
+          "start": 0,
+          "end": 8,
+          "confidence": 0.20449897646903992,
+          "topicId": 928469,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "054": {
+    "docId": "054",
+    "entityMap": {
+      "24113": [
+        {
+          "originalText": "president of the united states",
+          "start": 0,
+          "end": 30,
+          "confidence": 0.3056560158729553,
+          "topicId": 24113,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "175": {
+    "docId": "175",
+    "entityMap": {
+      "562958": [
+        {
+          "originalText": "signs",
+          "start": 0,
+          "end": 5,
+          "confidence": 0.20354099571704865,
+          "topicId": 562958,
+          "sentenceId": 0
+        }
+      ],
+      "20556798": [
+        {
+          "originalText": "heartattack",
+          "start": 11,
+          "end": 22,
+          "confidence": 0.1987655609846115,
+          "topicId": 20556798,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "055": {
+    "docId": "055",
+    "entityMap": {
+      "14734": [
+        {
+          "originalText": "iron",
+          "start": 0,
+          "end": 4,
+          "confidence": 0.03840116411447525,
+          "topicId": 14734,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "176": {
+    "docId": "176",
+    "entityMap": {
+      "8208783": [
+        {
+          "originalText": "weather strip",
+          "start": 0,
+          "end": 13,
+          "confidence": 0.25,
+          "topicId": 8208783,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "056": {
+    "docId": "056",
+    "entityMap": {
+      "216058": [
+        {
+          "originalText": "uss yorktown",
+          "start": 0,
+          "end": 12,
+          "confidence": 0.7940999865531921,
+          "topicId": 216058,
+          "sentenceId": 0
+        }
+      ],
+      "2366794": [
+        {
+          "originalText": "charleston sc",
+          "start": 13,
+          "end": 26,
+          "confidence": 0.4229888916015625,
+          "topicId": 2366794,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "177": {
+    "docId": "177",
+    "entityMap": {
+      "5519593": [
+        {
+          "originalText": "best",
+          "start": 0,
+          "end": 4,
+          "confidence": 6.966962828300893E-4,
+          "topicId": 5519593,
+          "sentenceId": 0
+        }
+      ],
+      "1160191": [
+        {
+          "originalText": "long term care insurance",
+          "start": 5,
+          "end": 29,
+          "confidence": 0.2763157784938812,
+          "topicId": 1160191,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "057": {
+    "docId": "057",
+    "entityMap": {
+      "314993": [
+        {
+          "originalText": "jobs",
+          "start": 3,
+          "end": 7,
+          "confidence": 0.017561795189976692,
+          "topicId": 314993,
+          "sentenceId": 0
+        }
+      ],
+      "65880": [
+        {
+          "originalText": "ct",
+          "start": 0,
+          "end": 2,
+          "confidence": 0.044182680547237396,
+          "topicId": 65880,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "178": {
+    "docId": "178",
+    "entityMap": {
+      "7440150": [
+        {
+          "originalText": "pork tenderloin",
+          "start": 0,
+          "end": 15,
+          "confidence": 0.2857142984867096,
+          "topicId": 7440150,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "058": {
+    "docId": "058",
+    "entityMap": {
+      "23878": [
+        {
+          "originalText": "penguins",
+          "start": 0,
+          "end": 8,
+          "confidence": 0.02511858567595482,
+          "topicId": 23878,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "179": {
+    "docId": "179",
+    "entityMap": {
+      "1142431": [
+        {
+          "originalText": "black history",
+          "start": 0,
+          "end": 13,
+          "confidence": 0.026702269911766052,
+          "topicId": 1142431,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "059": {
+    "docId": "059",
+    "entityMap": {
+      "42273": [
+        {
+          "originalText": "fence",
+          "start": 15,
+          "end": 20,
+          "confidence": 0.020600730553269386,
+          "topicId": 42273,
+          "sentenceId": 0
+        }
+      ],
+      "175502": [
+        {
+          "originalText": "how to",
+          "start": 0,
+          "end": 6,
+          "confidence": 8.725226507522166E-4,
+          "topicId": 175502,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "180": {
+    "docId": "180",
+    "entityMap": {
+      "24578": [
+        {
+          "originalText": "hotels",
+          "start": 8,
+          "end": 14,
+          "confidence": 0.00110103958286345,
+          "topicId": 24578,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "060": {
+    "docId": "060",
+    "entityMap": {
+      "137979": [
+        {
+          "originalText": "bellevue",
+          "start": 0,
+          "end": 8,
+          "confidence": 0.09781771153211594,
+          "topicId": 137979,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "181": {
+    "docId": "181",
+    "entityMap": {
+      "22326": [
+        {
+          "originalText": "old",
+          "start": 0,
+          "end": 3,
+          "confidence": 0.1476868987083435,
+          "topicId": 22326,
+          "sentenceId": 0
+        }
+      ],
+      "7558": [
+        {
+          "originalText": "coins",
+          "start": 4,
+          "end": 9,
+          "confidence": 0.1606556922197342,
+          "topicId": 7558,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "061": {
+    "docId": "061",
+    "entityMap": {
+      "19180096": [
+        {
+          "originalText": "worm",
+          "start": 0,
+          "end": 4,
+          "confidence": 0.07822030782699585,
+          "topicId": 19180096,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "182": {
+    "docId": "182",
+    "entityMap": {
+      "12254052": [
+        {
+          "originalText": "smoking",
+          "start": 5,
+          "end": 12,
+          "confidence": 0.4572308659553528,
+          "topicId": 12254052,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "062": {
+    "docId": "062",
+    "entityMap": {
+      "29810": [
+        {
+          "originalText": "texas",
+          "start": 0,
+          "end": 5,
+          "confidence": 0.3153841495513916,
+          "topicId": 29810,
+          "sentenceId": 0
+        }
+      ],
+      "567453": [
+        {
+          "originalText": "border patrol",
+          "start": 6,
+          "end": 19,
+          "confidence": 0.2467949092388153,
+          "topicId": 567453,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "183": {
+    "docId": "183",
+    "entityMap": {
+      "16716": [
+        {
+          "originalText": "kansas",
+          "start": 0,
+          "end": 6,
+          "confidence": 0.4114658534526825,
+          "topicId": 16716,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "063": {
+    "docId": "063",
+    "entityMap": {
+      "267693": [
+        {
+          "originalText": "flushing",
+          "start": 0,
+          "end": 8,
+          "confidence": 0.12941177189350128,
+          "topicId": 267693,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "184": {
+    "docId": "184",
+    "entityMap": {
+      "1270497": [
+        {
+          "originalText": "movement",
+          "start": 12,
+          "end": 20,
+          "confidence": 0.18988767266273499,
+          "topicId": 1270497,
+          "sentenceId": 0
+        }
+      ],
+      "49001": [
+        {
+          "originalText": "civil right",
+          "start": 0,
+          "end": 11,
+          "confidence": 0.3558928370475769,
+          "topicId": 49001,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "064": {
+    "docId": "064",
+    "entityMap": {
+      "66633": [
+        {
+          "originalText": "moths",
+          "start": 0,
+          "end": 5,
+          "confidence": 0.009279475547373295,
+          "topicId": 66633,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "185": {
+    "docId": "185",
+    "entityMap": {
+      "1476274": [
+        {
+          "originalText": "credit report",
+          "start": 0,
+          "end": 13,
+          "confidence": 0.24369747936725616,
+          "topicId": 1476274,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "065": {
+    "docId": "065",
+    "entityMap": {
+      "16756": [
+        {
+          "originalText": "korean language",
+          "start": 0,
+          "end": 15,
+          "confidence": 0.2383449822664261,
+          "topicId": 16756,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "186": {
+    "docId": "186",
+    "entityMap": {
+      "89510": [
+        {
+          "originalText": "unc",
+          "start": 0,
+          "end": 3,
+          "confidence": 0.04422788694500923,
+          "topicId": 89510,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "066": {
+    "docId": "066",
+    "entityMap": {
+      "74677": [
+        {
+          "originalText": "online",
+          "start": 18,
+          "end": 24,
+          "confidence": 0.060181066393852234,
+          "topicId": 74677,
+          "sentenceId": 0
+        }
+      ],
+      "50845": [
+        {
+          "originalText": "income tax",
+          "start": 0,
+          "end": 10,
+          "confidence": 0.3752278983592987,
+          "topicId": 50845,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "187": {
+    "docId": "187",
+    "entityMap": {
+      "32443": [
+        {
+          "originalText": "vanuatu",
+          "start": 0,
+          "end": 7,
+          "confidence": 0.5,
+          "topicId": 32443,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "067": {
+    "docId": "067",
+    "entityMap": {
+      "502410": [
+        {
+          "originalText": "vldl",
+          "start": 0,
+          "end": 4,
+          "confidence": 0.2549019753932953,
+          "topicId": 502410,
+          "sentenceId": 0
+        }
+      ],
+      "10254514": [
+        {
+          "originalText": "levels",
+          "start": 5,
+          "end": 11,
+          "confidence": 0.005762903951108456,
+          "topicId": 10254514,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "188": {
+    "docId": "188",
+    "entityMap": {
+      "75028": [
+        {
+          "originalText": "internet phone service",
+          "start": 0,
+          "end": 22,
+          "confidence": 0.1875,
+          "topicId": 75028,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "068": {
+    "docId": "068",
+    "entityMap": {
+      "24458": [
+        {
+          "originalText": "pvc",
+          "start": 0,
+          "end": 3,
+          "confidence": 0.2106466293334961,
+          "topicId": 24458,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "189": {
+    "docId": "189",
+    "entityMap": {
+      "2532789": [
+        {
+          "originalText": "gs",
+          "start": 0,
+          "end": 2,
+          "confidence": 0.04637731984257698,
+          "topicId": 2532789,
+          "sentenceId": 0
+        }
+      ],
+      "272290": [
+        {
+          "originalText": "rate",
+          "start": 7,
+          "end": 11,
+          "confidence": 0.0010109246941283345,
+          "topicId": 272290,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "069": {
+    "docId": "069",
+    "entityMap": {
+      "92295": [
+        {
+          "originalText": "sewing",
+          "start": 0,
+          "end": 6,
+          "confidence": 0.03265362232923508,
+          "topicId": 92295,
+          "sentenceId": 0
+        }
+      ],
+      "47772": [
+        {
+          "originalText": "instructions",
+          "start": 7,
+          "end": 19,
+          "confidence": 0.00331454211845994,
+          "topicId": 47772,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "190": {
+    "docId": "190",
+    "entityMap": {
+      "802150": [
+        {
+          "originalText": "brooks brothers",
+          "start": 0,
+          "end": 15,
+          "confidence": 0.4166666567325592,
+          "topicId": 802150,
+          "sentenceId": 0
+        }
+      ],
+      "2402393": [
+        {
+          "originalText": "clearance",
+          "start": 16,
+          "end": 25,
+          "confidence": 0.006521739065647125,
+          "topicId": 2402393,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "070": {
+    "docId": "070",
+    "entityMap": {
+      "729006": [
+        {
+          "originalText": "to be or not to be",
+          "start": 0,
+          "end": 18,
+          "confidence": 0.39743590354919434,
+          "topicId": 729006,
+          "sentenceId": 0
+        }
+      ],
+      "384864": [
+        {
+          "originalText": "question",
+          "start": 31,
+          "end": 39,
+          "confidence": 0.0032367873936891556,
+          "topicId": 384864,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "191": {
+    "docId": "191",
+    "entityMap": {
+      "955377": [
+        {
+          "originalText": "churchill downs",
+          "start": 0,
+          "end": 15,
+          "confidence": 0.49162012338638306,
+          "topicId": 955377,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "071": {
+    "docId": "071",
+    "entityMap": {
+      "14533": [
+        {
+          "originalText": "india",
+          "start": 10,
+          "end": 15,
+          "confidence": 0.3774926960468292,
+          "topicId": 14533,
+          "sentenceId": 0
+        }
+      ],
+      "18393": [
+        {
+          "originalText": "living",
+          "start": 0,
+          "end": 6,
+          "confidence": 0.051890160888433456,
+          "topicId": 18393,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "192": {
+    "docId": "192",
+    "entityMap": {
+      "375303": [
+        {
+          "originalText": "condos",
+          "start": 0,
+          "end": 6,
+          "confidence": 0.15395089983940125,
+          "topicId": 375303,
+          "sentenceId": 0
+        }
+      ],
+      "18933066": [
+        {
+          "originalText": "florida",
+          "start": 10,
+          "end": 17,
+          "confidence": 0.29938143491744995,
+          "topicId": 18933066,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "072": {
+    "docId": "072",
+    "entityMap": {
+      "26751": [
+        {
+          "originalText": "sun",
+          "start": 4,
+          "end": 7,
+          "confidence": 0.05010358244180679,
+          "topicId": 26751,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "193": {
+    "docId": "193",
+    "entityMap": {
+      "938911": [
+        {
+          "originalText": "clean",
+          "start": 4,
+          "end": 9,
+          "confidence": 0.07516228407621384,
+          "topicId": 938911,
+          "sentenceId": 0
+        }
+      ],
+      "1168875": [
+        {
+          "originalText": "bags",
+          "start": 13,
+          "end": 17,
+          "confidence": 0.060412630438804626,
+          "topicId": 1168875,
+          "sentenceId": 0
+        }
+      ],
+      "4269567": [
+        {
+          "originalText": "dog",
+          "start": 0,
+          "end": 3,
+          "confidence": 0.16161717474460602,
+          "topicId": 4269567,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "073": {
+    "docId": "073",
+    "entityMap": {
+      "87985": [
+        {
+          "originalText": "neil young",
+          "start": 0,
+          "end": 10,
+          "confidence": 0.5,
+          "topicId": 87985,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "194": {
+    "docId": "194",
+    "entityMap": {
+      "825162": [
+        {
+          "originalText": "designer dog",
+          "start": 0,
+          "end": 12,
+          "confidence": 0.9215500354766846,
+          "topicId": 825162,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "074": {
+    "docId": "074",
+    "entityMap": {
+      "17362": [
+        {
+          "originalText": "kiwi",
+          "start": 0,
+          "end": 4,
+          "confidence": 0.13626252114772797,
+          "topicId": 17362,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "195": {
+    "docId": "195",
+    "entityMap": {
+      "2748878": [
+        {
+          "originalText": "pressure washers",
+          "start": 0,
+          "end": 16,
+          "confidence": 0.09375,
+          "topicId": 2748878,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "075": {
+    "docId": "075",
+    "entityMap": {
+      "37530": [
+        {
+          "originalText": "tornadoes",
+          "start": 0,
+          "end": 9,
+          "confidence": 0.036611322313547134,
+          "topicId": 37530,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "196": {
+    "docId": "196",
+    "entityMap": {
+      "310094": [
+        {
+          "originalText": "sore throat",
+          "start": 0,
+          "end": 11,
+          "confidence": 0.16557016968727112,
+          "topicId": 310094,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "076": {
+    "docId": "076",
+    "entityMap": {
+      "42139": [
+        {
+          "originalText": "gardens",
+          "start": 7,
+          "end": 14,
+          "confidence": 0.002897752681747079,
+          "topicId": 42139,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "197": {
+    "docId": "197",
+    "entityMap": {
+      "3328431": [
+        {
+          "originalText": "state flower",
+          "start": 6,
+          "end": 18,
+          "confidence": 0.16098962724208832,
+          "topicId": 3328431,
+          "sentenceId": 0
+        }
+      ],
+      "14607": [
+        {
+          "originalText": "idaho",
+          "start": 0,
+          "end": 5,
+          "confidence": 0.320242702960968,
+          "topicId": 14607,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "077": {
+    "docId": "077",
+    "entityMap": {
+      "171808": [
+        {
+          "originalText": "bobcat",
+          "start": 0,
+          "end": 6,
+          "confidence": 0.3927902579307556,
+          "topicId": 171808,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "198": {
+    "docId": "198",
+    "entityMap": {
+      "1318490": [
+        {
+          "originalText": "indiana state fairgrounds",
+          "start": 0,
+          "end": 25,
+          "confidence": 0.2926829159259796,
+          "topicId": 1318490,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "078": {
+    "docId": "078",
+    "entityMap": {
+      "8460": [
+        {
+          "originalText": "dieting",
+          "start": 0,
+          "end": 7,
+          "confidence": 0.1416040062904358,
+          "topicId": 8460,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "199": {
+    "docId": "199",
+    "entityMap": {
+      "318049": [
+        {
+          "originalText": "fybromyalgia",
+          "start": 0,
+          "end": 12,
+          "confidence": 0.5,
+          "topicId": 318049,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "079": {
+    "docId": "079",
+    "entityMap": {
+      "47795": [
+        {
+          "originalText": "voyager",
+          "start": 0,
+          "end": 7,
+          "confidence": 0.099071204662323,
+          "topicId": 47795,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "080": {
+    "docId": "080",
+    "entityMap": {
+      "49842": [
+        {
+          "originalText": "keyboard",
+          "start": 0,
+          "end": 8,
+          "confidence": 0.17754173278808594,
+          "topicId": 49842,
+          "sentenceId": 0
+        }
+      ],
+      "538779": [
+        {
+          "originalText": "reviews",
+          "start": 9,
+          "end": 16,
+          "confidence": 0.06760293990373611,
+          "topicId": 538779,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "081": {
+    "docId": "081",
+    "entityMap": {
+      "737": [
+        {
+          "originalText": "afghanistan",
+          "start": 0,
+          "end": 11,
+          "confidence": 0.36382853984832764,
+          "topicId": 737,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "082": {
+    "docId": "082",
+    "entityMap": {
+      "210242": [
+        {
+          "originalText": "joints",
+          "start": 0,
+          "end": 6,
+          "confidence": 0.01692221313714981,
+          "topicId": 210242,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "083": {
+    "docId": "083",
+    "entityMap": {
+      "31217535": [
+        {
+          "originalText": "memory",
+          "start": 0,
+          "end": 6,
+          "confidence": 0.014723241329193115,
+          "topicId": 31217535,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "084": {
+    "docId": "084",
+    "entityMap": {
+      "24944": [
+        {
+          "originalText": "continental plates",
+          "start": 0,
+          "end": 18,
+          "confidence": 0.08522727340459824,
+          "topicId": 24944,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "085": {
+    "docId": "085",
+    "entityMap": {
+      "1272811": [
+        {
+          "originalText": "milwaukee journal sentinel",
+          "start": 0,
+          "end": 26,
+          "confidence": 0.4395604431629181,
+          "topicId": 1272811,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "086": {
+    "docId": "086",
+    "entityMap": {
+      "28416": [
+        {
+          "originalText": "sf",
+          "start": 5,
+          "end": 7,
+          "confidence": 0.17802047729492188,
+          "topicId": 28416,
+          "sentenceId": 0
+        }
+      ],
+      "64300": [
+        {
+          "originalText": "bart",
+          "start": 0,
+          "end": 4,
+          "confidence": 0.14611071348190308,
+          "topicId": 64300,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "087": {
+    "docId": "087",
+    "entityMap": {
+      "36517": [
+        {
+          "originalText": "who",
+          "start": 0,
+          "end": 3,
+          "confidence": 0.10766994953155518,
+          "topicId": 36517,
+          "sentenceId": 0
+        }
+      ],
+      "18839": [
+        {
+          "originalText": "music",
+          "start": 13,
+          "end": 18,
+          "confidence": 0.1629260629415512,
+          "topicId": 18839,
+          "sentenceId": 0
+        }
+      ],
+      "44312": [
+        {
+          "originalText": "invented",
+          "start": 4,
+          "end": 12,
+          "confidence": 0.11367808282375336,
+          "topicId": 44312,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "088": {
+    "docId": "088",
+    "entityMap": {
+      "24373": [
+        {
+          "originalText": "pain",
+          "start": 8,
+          "end": 12,
+          "confidence": 0.26505449414253235,
+          "topicId": 24373,
+          "sentenceId": 0
+        }
+      ],
+      "237647": [
+        {
+          "originalText": "forearm",
+          "start": 0,
+          "end": 7,
+          "confidence": 0.31468284130096436,
+          "topicId": 237647,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "089": {
+    "docId": "089",
+    "entityMap": {
+      "20082214": [
+        {
+          "originalText": "ocd",
+          "start": 0,
+          "end": 3,
+          "confidence": 0.17757008969783783,
+          "topicId": 20082214,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "090": {
+    "docId": "090",
+    "entityMap": {
+      "1248051": [
+        {
+          "originalText": "mgb",
+          "start": 0,
+          "end": 3,
+          "confidence": 0.2083333283662796,
+          "topicId": 1248051,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "091": {
+    "docId": "091",
+    "entityMap": {
+      "177153": [
+        {
+          "originalText": "er",
+          "start": 0,
+          "end": 2,
+          "confidence": 0.47776439785957336,
+          "topicId": 177153,
+          "sentenceId": 0
+        }
+      ],
+      "19508643": [
+        {
+          "originalText": "tv show",
+          "start": 3,
+          "end": 10,
+          "confidence": 0.23152579367160797,
+          "topicId": 19508643,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "092": {
+    "docId": "092",
+    "entityMap": {
+      "39007": [
+        {
+          "originalText": "wall",
+          "start": 4,
+          "end": 8,
+          "confidence": 0.009002999402582645,
+          "topicId": 39007,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "093": {
+    "docId": "093",
+    "entityMap": {
+      "768522": [
+        {
+          "originalText": "raffles",
+          "start": 0,
+          "end": 7,
+          "confidence": 0.05021834000945091,
+          "topicId": 768522,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "094": {
+    "docId": "094",
+    "entityMap": {
+      "47402": [
+        {
+          "originalText": "titan",
+          "start": 0,
+          "end": 5,
+          "confidence": 0.15931473672389984,
+          "topicId": 47402,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "096": {
+    "docId": "096",
+    "entityMap": {
+      "36979": [
+        {
+          "originalText": "rice",
+          "start": 0,
+          "end": 4,
+          "confidence": 0.087301105260849,
+          "topicId": 36979,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "097": {
+    "docId": "097",
+    "entityMap": {
+      "17416221": [
+        {
+          "originalText": "south africa",
+          "start": 0,
+          "end": 12,
+          "confidence": 0.35164716839790344,
+          "topicId": 17416221,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "098": {
+    "docId": "098",
+    "entityMap": {
+      "144716": [
+        {
+          "originalText": "sat",
+          "start": 0,
+          "end": 3,
+          "confidence": 0.023008450865745544,
+          "topicId": 144716,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "099": {
+    "docId": "099",
+    "entityMap": {
+      "27683": [
+        {
+          "originalText": "satellite",
+          "start": 0,
+          "end": 9,
+          "confidence": 0.052963025867938995,
+          "topicId": 27683,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "200": {
+    "docId": "200",
+    "entityMap": {
+      "37575": [
+        {
+          "originalText": "airport",
+          "start": 19,
+          "end": 26,
+          "confidence": 0.17484302818775177,
+          "topicId": 37575,
+          "sentenceId": 0
+        }
+      ],
+      "108010": [
+        {
+          "originalText": "ontario california",
+          "start": 0,
+          "end": 18,
+          "confidence": 0.6157000064849854,
+          "topicId": 108010,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "101": {
+    "docId": "101",
+    "entityMap": {
+      "9428452": [
+        {
+          "originalText": "ritz carlton",
+          "start": 0,
+          "end": 12,
+          "confidence": 0.24239714443683624,
+          "topicId": 9428452,
+          "sentenceId": 0
+        }
+      ],
+      "2237980": [
+        {
+          "originalText": "lake las vegas",
+          "start": 13,
+          "end": 27,
+          "confidence": 0.43939393758773804,
+          "topicId": 2237980,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "102": {
+    "docId": "102",
+    "entityMap": {
+      "32185755": [
+        {
+          "originalText": "fickle",
+          "start": 0,
+          "end": 6,
+          "confidence": 0.002400000113993883,
+          "topicId": 32185755,
+          "sentenceId": 0
+        }
+      ],
+      "18842308": [
+        {
+          "originalText": "creek",
+          "start": 7,
+          "end": 12,
+          "confidence": 0.10654056072235107,
+          "topicId": 18842308,
+          "sentenceId": 0
+        }
+      ],
+      "59790": [
+        {
+          "originalText": "farm",
+          "start": 13,
+          "end": 17,
+          "confidence": 0.10925492644309998,
+          "topicId": 59790,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "103": {
+    "docId": "103",
+    "entityMap": {
+      "472573": [
+        {
+          "originalText": "madam cj walker",
+          "start": 0,
+          "end": 15,
+          "confidence": 0.5,
+          "topicId": 472573,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "104": {
+    "docId": "104",
+    "entityMap": {
+      "7178087": [
+        {
+          "originalText": "child support",
+          "start": 8,
+          "end": 21,
+          "confidence": 0.3063935935497284,
+          "topicId": 7178087,
+          "sentenceId": 0
+        }
+      ],
+      "21883857": [
+        {
+          "originalText": "indiana",
+          "start": 0,
+          "end": 7,
+          "confidence": 0.3330056071281433,
+          "topicId": 21883857,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "105": {
+    "docId": "105",
+    "entityMap": {
+      "82117": [
+        {
+          "originalText": "sonoma county",
+          "start": 0,
+          "end": 13,
+          "confidence": 0.27463093400001526,
+          "topicId": 82117,
+          "sentenceId": 0
+        }
+      ],
+      "261925": [
+        {
+          "originalText": "medical",
+          "start": 14,
+          "end": 21,
+          "confidence": 0.2679498791694641,
+          "topicId": 261925,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "106": {
+    "docId": "106",
+    "entityMap": {
+      "11065202": [
+        {
+          "originalText": "reviews",
+          "start": 22,
+          "end": 29,
+          "confidence": 0.08853626996278763,
+          "topicId": 11065202,
+          "sentenceId": 0
+        }
+      ],
+      "2056466": [
+        {
+          "originalText": "animal",
+          "start": 10,
+          "end": 16,
+          "confidence": 0.023709740489721298,
+          "topicId": 2056466,
+          "sentenceId": 0
+        }
+      ],
+      "11320305": [
+        {
+          "originalText": "cuts",
+          "start": 17,
+          "end": 21,
+          "confidence": 0.08054737746715546,
+          "topicId": 11320305,
+          "sentenceId": 0
+        }
+      ],
+      "209901": [
+        {
+          "originalText": "universal",
+          "start": 0,
+          "end": 9,
+          "confidence": 0.027910640463232994,
+          "topicId": 209901,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "107": {
+    "docId": "107",
+    "entityMap": {
+      "94674": [
+        {
+          "originalText": "cass county",
+          "start": 0,
+          "end": 11,
+          "confidence": 0.9575402736663818,
+          "topicId": 94674,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "108": {
+    "docId": "108",
+    "entityMap": {
+      "30873342": [
+        {
+          "originalText": "ralph owen brewster",
+          "start": 0,
+          "end": 19,
+          "confidence": 0.5,
+          "topicId": 30873342,
+          "sentenceId": 0
+        }
+      ]
+    }
+  },
+  "109": {
+    "docId": "109",
+    "entityMap": {
+      "60613": [
+        {
+          "originalText": "jacksonville fl",
+          "start": 12,
+          "end": 27,
+          "confidence": 0.31844913959503174,
+          "topicId": 60613,
+          "sentenceId": 0
+        }
+      ],
+      "160843": [
+        {
+          "originalText": "mayo clinic",
+          "start": 0,
+          "end": 11,
+          "confidence": 0.5745725631713867,
+          "topicId": 160843,
+          "sentenceId": 0
+        }
+      ]
+    }
+  }
+}
